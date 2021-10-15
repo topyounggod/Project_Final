@@ -1,0 +1,903 @@
+{"geometry": {"coordinates": [126.903311, 37.449517], "type": "Point"}, "properties": {"name": "\ub354\uc870\uc740 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.085949, 37.545253], "type": "Point"}, "properties": {"name": "\uad11\uc9c4\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04903, 37.519441], "type": "Point"}, "properties": {"name": "\ub180\ub85c\ub3d9\ubb3c\ud589\ub3d9\ud074\ub9ac\ub2c9", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04206, 37.664403], "type": "Point"}, "properties": {"name": "\ud604\ub300\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.918386, 37.548097], "type": "Point"}, "properties": {"name": "\ud64d\uc775\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.003346, 37.565884], "type": "Point"}, "properties": {"name": "\ud5ec\ub9ad\uc2a4\ub3d9\ubb3c\uc2ec\uc7a5\uc218\uc220\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.003346, 37.565884], "type": "Point"}, "properties": {"name": "\ud5ec\ub9ad\uc2a4\ub3d9\ubb3c\uc554\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.003346, 37.565884], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\uc601\uc0c1\uc885\uc591\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061858, 37.627341], "type": "Point"}, "properties": {"name": "\uc6f0\ub2c8\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.067392, 37.483988], "type": "Point"}, "properties": {"name": "\ub2e4\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.021896, 37.508778], "type": "Point"}, "properties": {"name": "\ub77c\ud30c\uc5d8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.916804, 37.611153], "type": "Point"}, "properties": {"name": "\ub85c\uc584\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.01894, 37.61795], "type": "Point"}, "properties": {"name": "H \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.96025, 37.598888], "type": "Point"}, "properties": {"name": "\ubd81\uc545\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.958983, 37.599282], "type": "Point"}, "properties": {"name": "\uc62c\ub9ac\ube0c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013428, 37.59231], "type": "Point"}, "properties": {"name": "VIP \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.002091, 37.504889], "type": "Point"}, "properties": {"name": "\ud5ec\ub9ad\uc2a4\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04903, 37.519441], "type": "Point"}, "properties": {"name": "VIP\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130 \uccad\ub2f4\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.93682, 37.484212], "type": "Point"}, "properties": {"name": "\uc774\ub85c\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.076856, 37.612945], "type": "Point"}, "properties": {"name": "\uce58\ub8cc\ud574 \uc8fc\uc624", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.96998, 37.58445], "type": "Point"}, "properties": {"name": "\uc120\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.96998, 37.58445], "type": "Point"}, "properties": {"name": "\ub300\ud559\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.96998, 37.58445], "type": "Point"}, "properties": {"name": "\ud074\ub85c\ubc84 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015511, 37.574902], "type": "Point"}, "properties": {"name": "\ud574\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.971065, 37.575794], "type": "Point"}, "properties": {"name": "\ub204\ub9ac\ubd04\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015644, 37.578706], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.960816, 37.606058], "type": "Point"}, "properties": {"name": "\uc6d4\ub4dc\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.996856, 37.561629], "type": "Point"}, "properties": {"name": "\uc724\uc2e0\uadfc\ubc15\uc0ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.011486, 37.554312], "type": "Point"}, "properties": {"name": "\uc6f0\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.000006, 37.562372], "type": "Point"}, "properties": {"name": "\ud669\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.012841, 37.559294], "type": "Point"}, "properties": {"name": "\ubc14\uc6b0\ubbf8\uc6b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.009651, 37.553654], "type": "Point"}, "properties": {"name": "\ubbf8\ub798\uc9c0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.00888, 37.548681], "type": "Point"}, "properties": {"name": "\ub0a8\uc0b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.996892, 37.562061], "type": "Point"}, "properties": {"name": "\ub300\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.01911, 37.560527], "type": "Point"}, "properties": {"name": "\uc88b\uc544\uc694 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.965564, 37.55509], "type": "Point"}, "properties": {"name": "\ubc31\uc2ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.021434, 37.570978], "type": "Point"}, "properties": {"name": "\uc6f0\ub2c8\uc2a4\ud074\ub9ac\ub2c9(\uccad\uacc4\ucc9c\uc810)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015975, 37.563499], "type": "Point"}, "properties": {"name": "\uba54\uc885\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.133981, 37.508602], "type": "Point"}, "properties": {"name": "\uc5d8 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.970685, 37.524275], "type": "Point"}, "properties": {"name": "\ubc14\ub2e4\ub3d9\ubb3c\ubcd1\uc6d0(Bada Animal Hospital)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.987833, 37.543102], "type": "Point"}, "properties": {"name": "\ud37c\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.002774, 37.533714], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0 \uba54\uc774", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.987242, 37.536395], "type": "Point"}, "properties": {"name": "\uc774\ud0dc\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.021909, 37.566172], "type": "Point"}, "properties": {"name": "\ubc14\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.950409, 37.534029], "type": "Point"}, "properties": {"name": "\ubbfc\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.000758, 37.526522], "type": "Point"}, "properties": {"name": "\ubcf4\uad11\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.006515, 37.535565], "type": "Point"}, "properties": {"name": "\ub2ec\ub798\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.963153, 37.536433], "type": "Point"}, "properties": {"name": "\uc6d0\ud6a8\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.987398, 37.541706], "type": "Point"}, "properties": {"name": "\ud55c\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.951124, 37.534281], "type": "Point"}, "properties": {"name": "\ucc28\uc624\ub984\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.961083, 37.539598], "type": "Point"}, "properties": {"name": "\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.967363, 37.538277], "type": "Point"}, "properties": {"name": "\uc88b\uc544\uc11c\ud558\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.961753, 37.535626], "type": "Point"}, "properties": {"name": "\uc5f4\ub9b0\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.005277, 37.532423], "type": "Point"}, "properties": {"name": "\ud55c\ub0a8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.999214, 37.528375], "type": "Point"}, "properties": {"name": "21\uc138\uae30\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.969491, 37.544981], "type": "Point"}, "properties": {"name": "\uc6d0\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.905021, 37.569516], "type": "Point"}, "properties": {"name": "\ud0a4\ub2e4\ub9ac \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.961887, 37.539319], "type": "Point"}, "properties": {"name": "\ud6a8\ucc3d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.977106, 37.550499], "type": "Point"}, "properties": {"name": "\ub0a8\uc0b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.001684, 37.53351], "type": "Point"}, "properties": {"name": "\ud3ab\ud1a0\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.967363, 37.538277], "type": "Point"}, "properties": {"name": "\uc5c9\ud074\uc7a5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.9192, 37.639146], "type": "Point"}, "properties": {"name": "\uc544\uc774\ub7ec\ube0c\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0 \uc740\ud3c9\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.989561, 37.539646], "type": "Point"}, "properties": {"name": "\ub77c\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.025936, 37.487573], "type": "Point"}, "properties": {"name": "\uba54\ub514\ud3ab \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.975027, 37.51933], "type": "Point"}, "properties": {"name": "\ubca0\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052747, 37.566406], "type": "Point"}, "properties": {"name": "24\uc2dcLC\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013995, 37.548477], "type": "Point"}, "properties": {"name": "\uc2a4\ud14c\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.99583, 37.531109], "type": "Point"}, "properties": {"name": "\uccad\ud654\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.969145, 37.525111], "type": "Point"}, "properties": {"name": "\uc6cc\ub108\ube44\ub3d9\ubb3c\ubcd1\uc6d0 \uc6a9\uc0b0\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0492, 37.543631], "type": "Point"}, "properties": {"name": "\ud3ec\ub808\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0492, 37.543631], "type": "Point"}, "properties": {"name": "\uacbd\ud76c\uad81 \ubc14\ub978 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.045046, 37.538824], "type": "Point"}, "properties": {"name": "\ub2ec\ub9c1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027596, 37.566111], "type": "Point"}, "properties": {"name": "\ub2e4\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027596, 37.566111], "type": "Point"}, "properties": {"name": "\ubc14\ub77c\ubd04\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0672, 37.54853], "type": "Point"}, "properties": {"name": "\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040149, 37.557149], "type": "Point"}, "properties": {"name": "\ubc14\uc6b0\ub77c\uc6c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027596, 37.566111], "type": "Point"}, "properties": {"name": "\ubca0\uc774\uc9c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.044869, 37.546866], "type": "Point"}, "properties": {"name": "\uc624\ub298\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.01814, 37.54228], "type": "Point"}, "properties": {"name": "\uc625\uc218\uc218 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.053229, 37.539099], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc232\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.053229, 37.539099], "type": "Point"}, "properties": {"name": "\ud3ab365\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.025374, 37.569337], "type": "Point"}, "properties": {"name": "\ud150\uc988\ud790\ub9c1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013715, 37.545137], "type": "Point"}, "properties": {"name": "\uc624\uc11d\ud5cc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.021045, 37.548031], "type": "Point"}, "properties": {"name": "\uc544\uc9c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.848148, 37.500399], "type": "Point"}, "properties": {"name": "24\uc2dc \uba85\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.05469, 37.539048], "type": "Point"}, "properties": {"name": "\uc81c\uc778\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.033968, 37.556042], "type": "Point"}, "properties": {"name": "\uc624\ub80c\uc9c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.029207, 37.55588], "type": "Point"}, "properties": {"name": "\ud3c9\ud654\uc640\uc0dd\uba85\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.030317, 37.56554], "type": "Point"}, "properties": {"name": "\ub77c\uc784\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.030317, 37.56554], "type": "Point"}, "properties": {"name": "\ucfe8\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.032837, 37.554371], "type": "Point"}, "properties": {"name": "\ub3c4\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0(\ucd9c\uc7a5\uc9c4\ub8cc\uc804\ubb38 \ub3d9\ubb3c\ubcd1\uc6d0)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013141, 37.543053], "type": "Point"}, "properties": {"name": "\ud568\uaed8\ud558\ub294\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.042776, 37.565692], "type": "Point"}, "properties": {"name": "\uae30\ub9b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.019822, 37.54597], "type": "Point"}, "properties": {"name": "\ubc14\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.024541, 37.551292], "type": "Point"}, "properties": {"name": "\uae08\ud638\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.037014, 37.559662], "type": "Point"}, "properties": {"name": "\ud55c\uc591\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.029207, 37.55588], "type": "Point"}, "properties": {"name": "\uc774\uc724\uc138\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027879, 37.564567], "type": "Point"}, "properties": {"name": "\uc655\uc2ed\ub9ac\uc870\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.079349, 37.531794], "type": "Point"}, "properties": {"name": "\uc790\uc591\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.019551, 37.553344], "type": "Point"}, "properties": {"name": "\ud55c\ube5b\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.081479, 37.565952], "type": "Point"}, "properties": {"name": "\ub2e4\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.099565, 37.543178], "type": "Point"}, "properties": {"name": "\ub098\ub8e8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.099565, 37.543178], "type": "Point"}, "properties": {"name": "\ud30c\ub77c\uace4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015332, 37.645359], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.070378, 37.534919], "type": "Point"}, "properties": {"name": "\uc900\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.070378, 37.534919], "type": "Point"}, "properties": {"name": "\ub354\ud3b8\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.087076, 37.554553], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.095213, 37.542097], "type": "Point"}, "properties": {"name": "\uc96c\ub77c\uae30\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.018478, 37.62586], "type": "Point"}, "properties": {"name": "\ubd09\uc2dd\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.018478, 37.62586], "type": "Point"}, "properties": {"name": "\uc5f0\ub450\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.018478, 37.62586], "type": "Point"}, "properties": {"name": "\ubc18\ub514\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.085752, 37.532375], "type": "Point"}, "properties": {"name": "\uc544\uc774\ubcf8 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.925487, 37.546624], "type": "Point"}, "properties": {"name": "\uc0bc\uc0c9\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.090225, 37.551792], "type": "Point"}, "properties": {"name": "\uc544\ucc28\uc0b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.095874, 37.538628], "type": "Point"}, "properties": {"name": "\uad11\uc9c424\uc2dc\ud544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.890045, 37.575641], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\ubcf5\uc9c0\uc9c0\uc6d0\uc13c\ud130 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.078783, 37.532051], "type": "Point"}, "properties": {"name": "\ub85c\uc5d8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.088305, 37.553191], "type": "Point"}, "properties": {"name": "\uc560\ud50c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.071161, 37.550523], "type": "Point"}, "properties": {"name": "\ubcf4\ub78c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.080943, 37.559327], "type": "Point"}, "properties": {"name": "\ubc29\uc8fc\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.081572, 37.56275], "type": "Point"}, "properties": {"name": "\uc911\uace1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.087884, 37.559526], "type": "Point"}, "properties": {"name": "\uc6a9\ub9c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073277, 37.547292], "type": "Point"}, "properties": {"name": "\ud53c\uce74\uc18c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.084078, 37.536139], "type": "Point"}, "properties": {"name": "\uc2dc\ubbfc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.096197, 37.541799], "type": "Point"}, "properties": {"name": "\ub3d9\uc11c\uc6b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.091991, 37.539305], "type": "Point"}, "properties": {"name": "\ud504\ub77c\uc784\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.081236, 37.56083], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0\uad70\uc790\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068334, 37.535814], "type": "Point"}, "properties": {"name": "\ub85c\uc584 \ub3c4\uadf8\uc564\ucea3 \uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.078154, 37.555351], "type": "Point"}, "properties": {"name": "\ub098\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061778, 37.536888], "type": "Point"}, "properties": {"name": "\ub178\ub8ec\uc0b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.083796, 37.565432], "type": "Point"}, "properties": {"name": "\ub4dc\ub9bc\ud3ab \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.049614, 37.575132], "type": "Point"}, "properties": {"name": "\uc81c\uc5f0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.042653, 37.515138], "type": "Point"}, "properties": {"name": "\uac15\ub0a8\uc608\uce58\uacfc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035721, 37.577185], "type": "Point"}, "properties": {"name": "\uadf8\ub9b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.023912, 37.571999], "type": "Point"}, "properties": {"name": "\ub9d1\uc740 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.067387, 37.565071], "type": "Point"}, "properties": {"name": "\uc544\uc778\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073056, 37.572507], "type": "Point"}, "properties": {"name": "\ud604\ub300\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.043532, 37.585945], "type": "Point"}, "properties": {"name": "\ub514\uc544\ud06c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.058478, 37.577869], "type": "Point"}, "properties": {"name": "\uc8fc\uc8fc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.026792, 37.580549], "type": "Point"}, "properties": {"name": "\uc548\uc554\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.071392, 37.572902], "type": "Point"}, "properties": {"name": "\uc7a5\ud3c925\uc2dc\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.044071, 37.584586], "type": "Point"}, "properties": {"name": "\ud478\ub978\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.058868, 37.594041], "type": "Point"}, "properties": {"name": "\uc560\ub2c8\ucf00\uc5b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057637, 37.57266], "type": "Point"}, "properties": {"name": "\uadf8\ub79c\ub4dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.064534, 37.569603], "type": "Point"}, "properties": {"name": "\ub274\uc6d4\ub4dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.069693, 37.578916], "type": "Point"}, "properties": {"name": "\ubc15\ucca0\ud658\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.066516, 37.591103], "type": "Point"}, "properties": {"name": "\uc2ec\uc7ac\uc6c5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.055908, 37.56662], "type": "Point"}, "properties": {"name": "\ud558\uc774\uc720 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.055642, 37.572473], "type": "Point"}, "properties": {"name": "\ub354\ucf00\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061915, 37.598479], "type": "Point"}, "properties": {"name": "\ubc14\ub860\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052333, 37.573741], "type": "Point"}, "properties": {"name": "\uc544\ub760\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.054049, 37.590344], "type": "Point"}, "properties": {"name": "\ubd04\ubd04\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.909608, 37.502963], "type": "Point"}, "properties": {"name": "\uc2dc\uadf8\ub110\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068508, 37.567874], "type": "Point"}, "properties": {"name": "\ud398\ud2b8\ub85c\ub3d9\ubb3c\uc758\ub8cc\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03763, 37.574671], "type": "Point"}, "properties": {"name": "\uc5d8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.092677, 37.616326], "type": "Point"}, "properties": {"name": "\uc96c\ub77c\uae30\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.085707, 37.577295], "type": "Point"}, "properties": {"name": "\uc8fc\uc5f0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.100597, 37.59845], "type": "Point"}, "properties": {"name": "\uae08\ub780\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.079503, 37.599968], "type": "Point"}, "properties": {"name": "\uc9c4\uc815\ud6c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.085717, 37.602716], "type": "Point"}, "properties": {"name": "\uc2e0\ub0b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.07739, 37.610665], "type": "Point"}, "properties": {"name": "\ud64d\uc0c1\ud76c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.088371, 37.588797], "type": "Point"}, "properties": {"name": "\uc5d4\uc824\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.085752, 37.577025], "type": "Point"}, "properties": {"name": "\ubcf4\ub78c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.088292, 37.582349], "type": "Point"}, "properties": {"name": "\ud61c\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.077579, 37.612596], "type": "Point"}, "properties": {"name": "\ud0dc\ub2a5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.072636, 37.592438], "type": "Point"}, "properties": {"name": "\uc911\ub791\ucc28 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.079423, 37.595042], "type": "Point"}, "properties": {"name": "\ud55c\uad6d\ub3d9\ubb3c\uc601\uc0c1\uc758\ud559\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.097404, 37.589951], "type": "Point"}, "properties": {"name": "\ubcf4\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.098145, 37.607805], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\uc774 \uc788\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.093763, 37.615795], "type": "Point"}, "properties": {"name": "\ub3c4\uadf8\ud50c\ub7ec\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.029398, 37.618912], "type": "Point"}, "properties": {"name": "\ubaa8\ub124\ub3d9\ubb3c\ud53c\ubd80\uacfc", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.086958, 37.591572], "type": "Point"}, "properties": {"name": "\ud558\uc2a4\ud3ab\ud0c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.087773, 37.579913], "type": "Point"}, "properties": {"name": "\uc131\uc9c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.081471, 37.573092], "type": "Point"}, "properties": {"name": "\ud790\ub9c1\ud398\uce20", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.095627, 37.60505], "type": "Point"}, "properties": {"name": "\uc544\uc774\ubd04 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.003836, 37.590355], "type": "Point"}, "properties": {"name": "\ud55c\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.091292, 37.616957], "type": "Point"}, "properties": {"name": "\ud558\ub2c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.084902, 37.581215], "type": "Point"}, "properties": {"name": "\uba74\ubaa9\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.931712, 37.612351], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0 \uc6c0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.096254, 37.598681], "type": "Point"}, "properties": {"name": "\uc138\uc9c4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.095924, 37.604699], "type": "Point"}, "properties": {"name": "\uc9c4\uc11c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.899528, 37.456186], "type": "Point"}, "properties": {"name": "\uae08\ucc9c 24\uc2dc K\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.019032, 37.609675], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0 \uc131\ubd81\uae38\uc74c\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035165, 37.596208], "type": "Point"}, "properties": {"name": "\uac15\ubd81\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.018197, 37.587105], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.072369, 37.591726], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc6b0\uc720\ud611\ub3d9\uc870\ud569\uc720\uc6b0\uc9c4\ub8cc\uc18c", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.012972, 37.591398], "type": "Point"}, "properties": {"name": "\ub098\ub798\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.045702, 37.614004], "type": "Point"}, "properties": {"name": "\ud050\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.02256, 37.610852], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.019834, 37.583939], "type": "Point"}, "properties": {"name": "24\uc2dc \uc560\ub2c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.899645, 37.536814], "type": "Point"}, "properties": {"name": "\ud50c\ub7ec\uc2a4\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.030631, 37.609571], "type": "Point"}, "properties": {"name": "24\uc2dc\ub8e8\uc2dc\ub4dc\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.08002, 37.595436], "type": "Point"}, "properties": {"name": "\ub85c\uc584\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.090562, 37.589315], "type": "Point"}, "properties": {"name": "\uc232\uc18d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.042131, 37.60299], "type": "Point"}, "properties": {"name": "\ube44\ube44\ud3ab \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.05932, 37.60887], "type": "Point"}, "properties": {"name": "\uc911\uc559\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061019, 37.613647], "type": "Point"}, "properties": {"name": "\ub300\ud559\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.034338, 37.5984], "type": "Point"}, "properties": {"name": "\ubbf8\uc18c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.056351, 37.611177], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.023776, 37.602773], "type": "Point"}, "properties": {"name": "\uae38\uc74c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046109, 37.619781], "type": "Point"}, "properties": {"name": "\uafc8\uc758\uc232\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.028532, 37.606785], "type": "Point"}, "properties": {"name": "\ud638\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.030381, 37.606526], "type": "Point"}, "properties": {"name": "\ub9c8\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.033674, 37.600162], "type": "Point"}, "properties": {"name": "\uc4f0\ub2f4\uc4f0\ub2f4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.060685, 37.607029], "type": "Point"}, "properties": {"name": "\ud0dc\uc591 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013698, 37.591836], "type": "Point"}, "properties": {"name": "\ub4dc\ub9bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.001717, 37.593459], "type": "Point"}, "properties": {"name": "\uc559\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.017949, 37.607557], "type": "Point"}, "properties": {"name": "\uce74\uce74\uc624 N \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.016328, 37.594516], "type": "Point"}, "properties": {"name": "\uc131\uc2e0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.024377, 37.60584], "type": "Point"}, "properties": {"name": "\uac15\ubd81 24\uc2dc N \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035782, 37.608808], "type": "Point"}, "properties": {"name": "\ub12c \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.018224, 37.645882], "type": "Point"}, "properties": {"name": "\ub300\ud615\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015757, 37.595357], "type": "Point"}, "properties": {"name": "\ub85c\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.037743, 37.604219], "type": "Point"}, "properties": {"name": "\ud3ec\uc720\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.023033, 37.643767], "type": "Point"}, "properties": {"name": "\ud604\ub300\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.022613, 37.634803], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0 \uc704\ub4dc", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.030396, 37.617027], "type": "Point"}, "properties": {"name": "\uc911\uc559\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.012793, 37.619969], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\uc758 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.026306, 37.626743], "type": "Point"}, "properties": {"name": "\uc704\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.033794, 37.611117], "type": "Point"}, "properties": {"name": "\ucc3d\ubb38\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.022265, 37.641453], "type": "Point"}, "properties": {"name": "24\uc2dc \uc218\uc720 \ubc14\ub978\ud3ab \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0157, 37.643395], "type": "Point"}, "properties": {"name": "\ucd08\uc774\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.01426, 37.647755], "type": "Point"}, "properties": {"name": "\uc560\ub2c8\ucf00\uc5b4 \ub3d9\ubb3c\ubcd1\uc6d0 \uc218\uc720\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.875391, 37.546698], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.020402, 37.617312], "type": "Point"}, "properties": {"name": "\uc194\uc0d8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.834923, 37.52052], "type": "Point"}, "properties": {"name": "\uc77c\uc624\uc0bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.020402, 37.617312], "type": "Point"}, "properties": {"name": "\ucfe0\ud0a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035365, 37.611933], "type": "Point"}, "properties": {"name": "\ud638 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.017743, 37.633447], "type": "Point"}, "properties": {"name": "\ubcf4\ub178\ubcf4\ub178\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.039899, 37.628813], "type": "Point"}, "properties": {"name": "\uac15\ubd81\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03276, 37.640848], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\uc744\uc0ac\ub791\ud558\ub294\uc0ac\ub78c\ub4e4", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015347, 37.620304], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015347, 37.620304], "type": "Point"}, "properties": {"name": "\uc0bc\uc131\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.055615, 37.674402], "type": "Point"}, "properties": {"name": "\ub098\uc6b0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.022104, 37.617204], "type": "Point"}, "properties": {"name": "\uc544\uc774\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.00939, 37.610582], "type": "Point"}, "properties": {"name": "\ubcf4\uc131\ud1b5\uc99d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.034103, 37.662666], "type": "Point"}, "properties": {"name": "\uac00\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03529, 37.650229], "type": "Point"}, "properties": {"name": "\uc0bc\uc131\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040035, 37.656871], "type": "Point"}, "properties": {"name": "\uac15\ubd81\uc6b0\ub9ac\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.036424, 37.657937], "type": "Point"}, "properties": {"name": "\ud0dc\uc77c\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.047504, 37.682544], "type": "Point"}, "properties": {"name": "\ud574\ubd04\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0337, 37.64536], "type": "Point"}, "properties": {"name": "\ud2b8\uc708\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.043201, 37.669095], "type": "Point"}, "properties": {"name": "\ubc29\ud559\ub3d9\ubb3c\uc678\uacfc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040305, 37.658593], "type": "Point"}, "properties": {"name": "\ubcc4\ub09c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.036102, 37.650372], "type": "Point"}, "properties": {"name": "\ub458\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046531, 37.652042], "type": "Point"}, "properties": {"name": "\ud558\ube44\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03979, 37.64019], "type": "Point"}, "properties": {"name": "\ud55c\ube5b\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.034662, 37.663813], "type": "Point"}, "properties": {"name": "\ud654\uc2e0\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.034034, 37.641441], "type": "Point"}, "properties": {"name": "\uc2e0\ucc3d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.034034, 37.641441], "type": "Point"}, "properties": {"name": "\ud4e8\ub9ac\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027718, 37.656191], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\ud574\uc694\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.041778, 37.65943], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04554, 37.682676], "type": "Point"}, "properties": {"name": "\ub3c4\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046366, 37.672195], "type": "Point"}, "properties": {"name": "\ube5b\uac00\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.077593, 37.651736], "type": "Point"}, "properties": {"name": "\ucc38\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.084239, 37.67043], "type": "Point"}, "properties": {"name": "\ub2f9\uace0\uac1c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.066568, 37.642721], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub4e4\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.066568, 37.642721], "type": "Point"}, "properties": {"name": "\ubbf8\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057846, 37.62915], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\uc2a4\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057846, 37.62915], "type": "Point"}, "properties": {"name": "\uace0\ub824\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057846, 37.62915], "type": "Point"}, "properties": {"name": "\uadf8\ub9b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.86949, 37.533538], "type": "Point"}, "properties": {"name": "\ub9ac\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046366, 37.662989], "type": "Point"}, "properties": {"name": "365\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.086393, 37.622193], "type": "Point"}, "properties": {"name": "\ud0a4\uc6c0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.065759, 37.658461], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.859465, 37.52527], "type": "Point"}, "properties": {"name": "\uc2e0\uc815 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.076378, 37.649597], "type": "Point"}, "properties": {"name": "\uc911\uacc4\uc774\uc624\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.074427, 37.65791], "type": "Point"}, "properties": {"name": "\uc740\ub9c8\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.071877, 37.628504], "type": "Point"}, "properties": {"name": "\uc5d4\uc824\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.07109, 37.646548], "type": "Point"}, "properties": {"name": "\ud3ab\uac00\ub4e0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.07109, 37.646548], "type": "Point"}, "properties": {"name": "\uc740\ube5b\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.077915, 37.647276], "type": "Point"}, "properties": {"name": "25\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.064108, 37.642026], "type": "Point"}, "properties": {"name": "\ub86f\ub370\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\uc77c\ud50c\ub7ec\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc544\ub780\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc774\uc564\ubc15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\ub85c\uc584\ubcb3 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc6f0\ub9ac\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc6b0\uc194\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc720\ub9bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\ud654\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073232, 37.623801], "type": "Point"}, "properties": {"name": "\uc218\ub77d \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061881, 37.650923], "type": "Point"}, "properties": {"name": "(\uc8fc)\ud55c\ube5b\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061881, 37.650923], "type": "Point"}, "properties": {"name": "\ube0c\ub77c\uc6b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.062329, 37.647826], "type": "Point"}, "properties": {"name": "\ube0c\uc774\uc544\uc774\ud53c \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.056591, 37.681605], "type": "Point"}, "properties": {"name": "\uc218 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061265, 37.650418], "type": "Point"}, "properties": {"name": "\ub354\uc2fc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.055823, 37.673571], "type": "Point"}, "properties": {"name": "\uc11c\uc815\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864131, 37.531442], "type": "Point"}, "properties": {"name": "\ud544\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.062217, 37.650065], "type": "Point"}, "properties": {"name": "\uc2dc\ub9c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.077564, 37.627703], "type": "Point"}, "properties": {"name": "\uc2a4\ub204\ud53c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.066069, 37.662468], "type": "Point"}, "properties": {"name": "\ud55c\uac15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.066069, 37.662468], "type": "Point"}, "properties": {"name": "\ucc38\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.919216, 37.638171], "type": "Point"}, "properties": {"name": "\ud53c\uc6c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.862445, 37.544072], "type": "Point"}, "properties": {"name": "\uac15\ud604\ub9bc \uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.919523, 37.621982], "type": "Point"}, "properties": {"name": "\uba54\ub514\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915711, 37.60557], "type": "Point"}, "properties": {"name": "\uc6b0\uc2e0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.922459, 37.588214], "type": "Point"}, "properties": {"name": "\ucc38\uc88b\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.929217, 37.610207], "type": "Point"}, "properties": {"name": "\uac1c\uc640\ub0e5\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.927698, 37.623756], "type": "Point"}, "properties": {"name": "\ub458\ub808\uae38\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917732, 37.619641], "type": "Point"}, "properties": {"name": "\ub3c4\uadf8\uc6d0 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.922606, 37.641985], "type": "Point"}, "properties": {"name": "\ub274\ud0c0\uc6b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.923174, 37.616548], "type": "Point"}, "properties": {"name": "Dr.\uc72424\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917615, 37.611363], "type": "Point"}, "properties": {"name": "\ub354\ub3c5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.912334, 37.613776], "type": "Point"}, "properties": {"name": "\ubbf8\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911148, 37.605726], "type": "Point"}, "properties": {"name": "\ub3c4\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.932109, 37.612379], "type": "Point"}, "properties": {"name": "\ub2e4\ub8e8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917916, 37.592044], "type": "Point"}, "properties": {"name": "\ud55c\uc5bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.929781, 37.611321], "type": "Point"}, "properties": {"name": "\ubd88\uad11\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.919568, 37.62138], "type": "Point"}, "properties": {"name": "\uae40\uc815\ubcf5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.918343, 37.595264], "type": "Point"}, "properties": {"name": "\uc751\uc554\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.908564, 37.586938], "type": "Point"}, "properties": {"name": "\uac00\ub4e0\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.927568, 37.634564], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub355\uad6c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.910118, 37.600993], "type": "Point"}, "properties": {"name": "\ud55c\ub9c8\uc74c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917827, 37.615359], "type": "Point"}, "properties": {"name": "\uae08\ucabd\uac19\uc740\ub0b4\uc0c8\ub07c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.921793, 37.607881], "type": "Point"}, "properties": {"name": "\uc740\ud3c9\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.931742, 37.608091], "type": "Point"}, "properties": {"name": "\ub179\ubc88\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911009, 37.598262], "type": "Point"}, "properties": {"name": "\ub298\ud478\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.928847, 37.64796], "type": "Point"}, "properties": {"name": "\ud55c\ube5b\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.924552, 37.634583], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ud587\ube5b\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.920056, 37.59697], "type": "Point"}, "properties": {"name": "\uc57c\uc639\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.930737, 37.601044], "type": "Point"}, "properties": {"name": "LOVE MY PET \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915971, 37.590797], "type": "Point"}, "properties": {"name": "\uc624\uac70\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917872, 37.613199], "type": "Point"}, "properties": {"name": "\uc5f0\uc11c\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.097397, 37.504978], "type": "Point"}, "properties": {"name": "\uc7a0\uc2e4\ubca0\uc2a4\ud2b8\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.949269, 37.55721], "type": "Point"}, "properties": {"name": "\ub9c1\ud06c\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.942742, 37.589637], "type": "Point"}, "properties": {"name": "\ud64d\uc81c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.958279, 37.557547], "type": "Point"}, "properties": {"name": "\ubd81\uc544\ud604\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.948639, 37.584921], "type": "Point"}, "properties": {"name": "\ud55c\uc194\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.926723, 37.582096], "type": "Point"}, "properties": {"name": "\ubc31\ub144\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911149, 37.580032], "type": "Point"}, "properties": {"name": "\uac00\uc88c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.931925, 37.567862], "type": "Point"}, "properties": {"name": "\uc5d0\uc774\ud50c\ub7ec\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917837, 37.572258], "type": "Point"}, "properties": {"name": "\uac15\uc564\uc815 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917837, 37.572258], "type": "Point"}, "properties": {"name": "\uc624\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917837, 37.572258], "type": "Point"}, "properties": {"name": "\uc5b4\uc6b8\ub9bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.963197, 37.569094], "type": "Point"}, "properties": {"name": "\ub3c5\ub9bd\ubb38\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911436, 37.579642], "type": "Point"}, "properties": {"name": "\uc704\ub4dc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917837, 37.572258], "type": "Point"}, "properties": {"name": "\ud587\uc0b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.910807, 37.578837], "type": "Point"}, "properties": {"name": "\ub450\ub9ac\ud2c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.910899, 37.577182], "type": "Point"}, "properties": {"name": "\uac00\uc7ac\uc6b8\ubd09\uc96c\ub974\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.924846, 37.576652], "type": "Point"}, "properties": {"name": "\ud55c\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.913481, 37.58313], "type": "Point"}, "properties": {"name": "\ucd08\ucf5c\ub9bf\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915659, 37.575974], "type": "Point"}, "properties": {"name": "\ud504\ub780\ub2e4\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.933053, 37.569213], "type": "Point"}, "properties": {"name": "\ub77c\ud30c\uc5d8\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.94093, 37.591651], "type": "Point"}, "properties": {"name": "\uc2e0\uc601\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.94093, 37.591651], "type": "Point"}, "properties": {"name": "\ub9c8\uc74c\uc744 \ub098\ub204\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.932085, 37.569161], "type": "Point"}, "properties": {"name": "\uc5f0\ud76c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.9493, 37.583525], "type": "Point"}, "properties": {"name": "\ube5b\uac00\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.9493, 37.583525], "type": "Point"}, "properties": {"name": "\ub9c8\ud3ec \ud0a4\ub2e4\ub9ac \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.05233, 37.619167], "type": "Point"}, "properties": {"name": "\ud37c\uc2a4\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.956533, 37.550976], "type": "Point"}, "properties": {"name": "24\uc2dc \uc0b0\ub4e4\uc0b0\ub4e4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.952173, 37.546233], "type": "Point"}, "properties": {"name": "\ucf69\ub2e5 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.912237, 37.553381], "type": "Point"}, "properties": {"name": "\ub85c\uc584\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130w", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.904548, 37.556582], "type": "Point"}, "properties": {"name": "\uc11c\uad50\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.922747, 37.547933], "type": "Point"}, "properties": {"name": "\uc140\ub808\ub124\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.014709, 37.51616], "type": "Point"}, "properties": {"name": "\uc774\uc0c1\ub85d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.028238, 37.657368], "type": "Point"}, "properties": {"name": "\ubcf4\ub4ec\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.909794, 37.567015], "type": "Point"}, "properties": {"name": "\uc640\uc6b0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.932656, 37.546859], "type": "Point"}, "properties": {"name": "\uc0b0\ucc45 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.905437, 37.560773], "type": "Point"}, "properties": {"name": "\uc774\ud669 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.910314, 37.555391], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.942646, 37.556351], "type": "Point"}, "properties": {"name": "\ub514\uc5d4\uc528\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.916067, 37.550751], "type": "Point"}, "properties": {"name": "\ub274\uc695\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.945176, 37.546165], "type": "Point"}, "properties": {"name": "\uc544\uc774\uc6f0 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.934214, 37.554234], "type": "Point"}, "properties": {"name": "\uc11c\uc9c4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.909266, 37.557402], "type": "Point"}, "properties": {"name": "\ud478\ub978\uc232 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.871868, 37.537267], "type": "Point"}, "properties": {"name": "\ubd04\ub0a0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.842638, 37.522291], "type": "Point"}, "properties": {"name": "\uc591\ucc9c\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.870692, 37.518449], "type": "Point"}, "properties": {"name": "\ub178\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.828445, 37.536192], "type": "Point"}, "properties": {"name": "\ubbfc\ubcd1\ucca0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.842327, 37.523825], "type": "Point"}, "properties": {"name": "\ud587\uc0b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.991654, 37.49244], "type": "Point"}, "properties": {"name": "\ub0a8\uc11c\uc6b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.860136, 37.520627], "type": "Point"}, "properties": {"name": "\ud574\uc131\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.879849, 37.536674], "type": "Point"}, "properties": {"name": "\ubaa9\ub3d9 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864399, 37.524662], "type": "Point"}, "properties": {"name": "\uc0c1\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.832419, 37.530292], "type": "Point"}, "properties": {"name": "\uc11c\uc11c\uc6b8\ud638\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.870895, 37.544475], "type": "Point"}, "properties": {"name": "\ub300\ud604\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.86849, 37.532838], "type": "Point"}, "properties": {"name": "\ud31c\ub79c\ub4dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.866907, 37.549505], "type": "Point"}, "properties": {"name": "\uc624\ub77c\uace0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.863906, 37.549151], "type": "Point"}, "properties": {"name": "\ud61c\uc778\uc885\ud569 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.856465, 37.521324], "type": "Point"}, "properties": {"name": "\ubc00\ub9ac\uc5b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.865498, 37.517494], "type": "Point"}, "properties": {"name": "\uacf5\uc6d0\uc606\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.870383, 37.525994], "type": "Point"}, "properties": {"name": "\ucfe8\ud3ab\uc774\ub9c8\ud2b8 \ubaa9\ub3d9\uc810 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.876084, 37.529373], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c\uc138\uc0c1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.868225, 37.525161], "type": "Point"}, "properties": {"name": "\ub9ac\ubca0\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.868225, 37.525161], "type": "Point"}, "properties": {"name": "\uc11d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.867838, 37.548055], "type": "Point"}, "properties": {"name": "\ubbf8\ub2c8\uc8fc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.854637, 37.517188], "type": "Point"}, "properties": {"name": "\ub2e4\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.832551, 37.512899], "type": "Point"}, "properties": {"name": "\uad6c\ub984\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.872949, 37.534359], "type": "Point"}, "properties": {"name": "\ud30c\ub9ac\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.871376, 37.546873], "type": "Point"}, "properties": {"name": "\ub450\uc554\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.862611, 37.54502], "type": "Point"}, "properties": {"name": "\ud1a0\ub860\ud1a0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.878042, 37.535986], "type": "Point"}, "properties": {"name": "\uac00\ub098\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864071, 37.540163], "type": "Point"}, "properties": {"name": "\uac00\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864716, 37.52366], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub4e4 \ub178\ub839\ub3d9\ubb3c \uc554\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.837745, 37.517423], "type": "Point"}, "properties": {"name": "\ud574\ub9de\uc774 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.873277, 37.530329], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.870338, 37.516191], "type": "Point"}, "properties": {"name": "\ud398\ud1a0\ube0c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.009604, 37.534691], "type": "Point"}, "properties": {"name": "\ub354\ud790\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864546, 37.507803], "type": "Point"}, "properties": {"name": "\uce90\uc2ac\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.144761, 37.48998], "type": "Point"}, "properties": {"name": "\ub9c8\ub8e8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.82472, 37.558533], "type": "Point"}, "properties": {"name": "\ubaa8\ubaa8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.863272, 37.534809], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ud50c\ub7ec\uc2a4\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.869811, 37.553078], "type": "Point"}, "properties": {"name": "\uc5fc\ucc3d\uc81c\uc77c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.841168, 37.530515], "type": "Point"}, "properties": {"name": "\ubbf8\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.853015, 37.562622], "type": "Point"}, "properties": {"name": "\ud574\ub9d1\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.843118, 37.543871], "type": "Point"}, "properties": {"name": "\ub300\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.839542, 37.532219], "type": "Point"}, "properties": {"name": "\uac15\uc11c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.847557, 37.528843], "type": "Point"}, "properties": {"name": "\uc6b0\uc7a5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.85505, 37.531435], "type": "Point"}, "properties": {"name": "\uace0\ub4dd\uc601\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.02998, 37.520727], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8 \uc815\ud615\uc678\uacfc \uc2e0\uacbd\uc678\uacfc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.02998, 37.520727], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\uc77c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.02998, 37.520727], "type": "Point"}, "properties": {"name": "\uac00\uc591\ucfe8\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.834576, 37.548118], "type": "Point"}, "properties": {"name": "\uc624\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.834466, 37.539787], "type": "Point"}, "properties": {"name": "\ud30c\uc2a4\ud154\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.834466, 37.539787], "type": "Point"}, "properties": {"name": "\ub2e4\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.834466, 37.539787], "type": "Point"}, "properties": {"name": "\uad7f\ubaa8\ub2dd\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.81355, 37.578743], "type": "Point"}, "properties": {"name": "\ud669\ud558\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.853015, 37.562622], "type": "Point"}, "properties": {"name": "\uace0\ub824\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.839113, 37.558151], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\uc544\uc774\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884781, 37.498793], "type": "Point"}, "properties": {"name": "24\uc2dc \uc9c0\uad6c\ucd0c \ub3d9\ubb3c\uba54\ub514\uceec \uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884781, 37.498793], "type": "Point"}, "properties": {"name": "\uacf5\ud56d\ucd95\uc0b0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884781, 37.498793], "type": "Point"}, "properties": {"name": "\ubbf8\uc18c\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884781, 37.498793], "type": "Point"}, "properties": {"name": "\uc138\uba85 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884781, 37.498793], "type": "Point"}, "properties": {"name": "\ud55c\ub9c8\uc74c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884781, 37.498793], "type": "Point"}, "properties": {"name": "\ud654\uace1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.843416, 37.530504], "type": "Point"}, "properties": {"name": "\uc138\uc778\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.096837, 37.503946], "type": "Point"}, "properties": {"name": "\ud558\ud2b8\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.83693, 37.555473], "type": "Point"}, "properties": {"name": "\ubc15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.01257, 37.59927], "type": "Point"}, "properties": {"name": "\uc6d0\ub7ec\ube0c\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.01257, 37.59927], "type": "Point"}, "properties": {"name": "\uc640\uc6b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.816347, 37.568613], "type": "Point"}, "properties": {"name": "\ub9c8\uace1M\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.847308, 37.545232], "type": "Point"}, "properties": {"name": "\uc2dc\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.871083, 37.551333], "type": "Point"}, "properties": {"name": "\uc11c\uc11c\uc6b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.861805, 37.53198], "type": "Point"}, "properties": {"name": "\ud558\ud2b8\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.837923, 37.536978], "type": "Point"}, "properties": {"name": "\uc62c\uc2a4\ud0c0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.828076, 37.556728], "type": "Point"}, "properties": {"name": "\uacf5\uac10\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.819325, 37.559289], "type": "Point"}, "properties": {"name": "\ub9c8\uace1\ub098\ubb34 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.819325, 37.559289], "type": "Point"}, "properties": {"name": "\ud558\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.844604, 37.533075], "type": "Point"}, "properties": {"name": "\uc6a9\ubd09\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.844604, 37.533075], "type": "Point"}, "properties": {"name": "SKY\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.870835, 37.552164], "type": "Point"}, "properties": {"name": "\ud478\ub978\ub4e4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.823377, 37.564881], "type": "Point"}, "properties": {"name": "\ucc38\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.856302, 37.490186], "type": "Point"}, "properties": {"name": "\uac1c\uba85\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.842929, 37.49537], "type": "Point"}, "properties": {"name": "\uae08\uac15\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.842929, 37.49537], "type": "Point"}, "properties": {"name": "\uc548\uc815\ud0dd\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884607, 37.500579], "type": "Point"}, "properties": {"name": "\ubca8\ub77c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.887744, 37.509421], "type": "Point"}, "properties": {"name": "\uc2e0\ub3c4\ub9bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.887744, 37.509421], "type": "Point"}, "properties": {"name": "\uac1c\ubd09\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.891673, 37.489324], "type": "Point"}, "properties": {"name": "\ub77c\ub77c\ub3d9\ubb3c\uc758\ub8cc\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.856142, 37.496658], "type": "Point"}, "properties": {"name": "\uad7f\ubaa8\ub2dd \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.88431, 37.488591], "type": "Point"}, "properties": {"name": "\ud478\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.887744, 37.509421], "type": "Point"}, "properties": {"name": "\uc544\uc774\ub7ec\ube0c\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0(\uc2e0\ub3c4\ub9bc\uc810)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.839749, 37.489831], "type": "Point"}, "properties": {"name": "\ucea5\uac70\ub8e8 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.886498, 37.507005], "type": "Point"}, "properties": {"name": "\uad6c\ub85c\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.893911, 37.490836], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.863147, 37.502945], "type": "Point"}, "properties": {"name": "\ub4dc\ub9bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.872723, 37.495881], "type": "Point"}, "properties": {"name": "\ud5c8\ube0c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.859767, 37.495483], "type": "Point"}, "properties": {"name": "\ud55c\uc0d8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.846901, 37.497083], "type": "Point"}, "properties": {"name": "\uc624\ub958\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.087511, 37.490972], "type": "Point"}, "properties": {"name": "\uc784\uc7ac\uc131\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864218, 37.498072], "type": "Point"}, "properties": {"name": "\uace0\ucc99\uc6d0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.877185, 37.506179], "type": "Point"}, "properties": {"name": "\uad6c\ub85c\ub2e4\ub098\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.861698, 37.503568], "type": "Point"}, "properties": {"name": "\ud574\ud53c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.880607, 37.476787], "type": "Point"}, "properties": {"name": "\ub098\ube44\uc140 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.899543, 37.458309], "type": "Point"}, "properties": {"name": "\ud30c\ub791\uc0c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.898288, 37.476746], "type": "Point"}, "properties": {"name": "24\uc2dc \uae00\ub85c\ub9ac \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.890377, 37.453795], "type": "Point"}, "properties": {"name": "\uc870\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.903475, 37.46392], "type": "Point"}, "properties": {"name": "\uae08\ucc9c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.903236, 37.470968], "type": "Point"}, "properties": {"name": "\uadf8\ub9b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.905812, 37.452562], "type": "Point"}, "properties": {"name": "\uc870\uc815\uc5f0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.907118, 37.45164], "type": "Point"}, "properties": {"name": "\uc740\ud589\ub098\ubb34\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.904727, 37.47973], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.901507, 37.467019], "type": "Point"}, "properties": {"name": "\ub3c5\uc0b0\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.901507, 37.467019], "type": "Point"}, "properties": {"name": "\ucfe8\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.91257, 37.450201], "type": "Point"}, "properties": {"name": "\ub178\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.894177, 37.45824], "type": "Point"}, "properties": {"name": "\uae08\ub098\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.898432, 37.527854], "type": "Point"}, "properties": {"name": "\uadf8\ub9bc\ucc45 \uc77d\uc5b4\uc8fc\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.906871, 37.52438], "type": "Point"}, "properties": {"name": "\uc601\ub4f1\ud3ec\uc544\ud06c\ub85c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.908013, 37.504829], "type": "Point"}, "properties": {"name": "\ub77c\uc774\ud504 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.889922, 37.520653], "type": "Point"}, "properties": {"name": "\ucea3\uc564\ucea3 \uace0\uc591\uc774 \ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.019543, 37.60201], "type": "Point"}, "properties": {"name": "ZOO\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.933344, 37.52051], "type": "Point"}, "properties": {"name": "Dr.\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.902268, 37.533235], "type": "Point"}, "properties": {"name": "\ub514\uc624\ube4c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884664, 37.521886], "type": "Point"}, "properties": {"name": "\uc560\ub4dc\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.904246, 37.524343], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.918534, 37.513432], "type": "Point"}, "properties": {"name": "\ud55c\uac00\ub78c\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.896254, 37.521551], "type": "Point"}, "properties": {"name": "\uc601\ub4f1\ud3ec\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.895924, 37.518227], "type": "Point"}, "properties": {"name": "\ub3c4\uadf8\ud50c\ub7ec\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.895521, 37.498425], "type": "Point"}, "properties": {"name": "\uc648\uce20\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.926054, 37.518172], "type": "Point"}, "properties": {"name": "I-pet \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.904204, 37.528575], "type": "Point"}, "properties": {"name": "\ubbf8\uc18c\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.93356, 37.518724], "type": "Point"}, "properties": {"name": "\uc5ec\uc758\ub3c4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915964, 37.512153], "type": "Point"}, "properties": {"name": "\uc544\ub78c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.906743, 37.48989], "type": "Point"}, "properties": {"name": "\uc544\ud504\ub9ac\uce74\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.891785, 37.52662], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.922017, 37.504982], "type": "Point"}, "properties": {"name": "\ud55c\uad6d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.919849, 37.513647], "type": "Point"}, "properties": {"name": "\ucc38 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.920429, 37.501433], "type": "Point"}, "properties": {"name": "\ub300\ubc29\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.908566, 37.498649], "type": "Point"}, "properties": {"name": "\uc2e0\ud48d\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.891169, 37.52234], "type": "Point"}, "properties": {"name": "24\uc2dc \uc218 \ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.891169, 37.52234], "type": "Point"}, "properties": {"name": "\uc2e0\uae38 \uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.980046, 37.494407], "type": "Point"}, "properties": {"name": "\uc5d8'S\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.088454, 37.507767], "type": "Point"}, "properties": {"name": "\ub3c4\uadf8\ub9c8\ub8e8 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.946893, 37.505907], "type": "Point"}, "properties": {"name": "\ub2e4\uc815\ub2e4\uac10\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.922252, 37.499716], "type": "Point"}, "properties": {"name": "\ubcf4\ub77c\ub9e4\uc6f0\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.96401, 37.508052], "type": "Point"}, "properties": {"name": "\ud751\uc11d24\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.946896, 37.503856], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\uc544\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.966478, 37.506598], "type": "Point"}, "properties": {"name": "\ub098\ubb34\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.979628, 37.484819], "type": "Point"}, "properties": {"name": "\uad7f\ud30c\ud30c 24\uc2dc \ubc18\ub824\ub3d9\ubb3c\uac74\uac15\uac80\uc9c4\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.953198, 37.497288], "type": "Point"}, "properties": {"name": "\uc0c1\ub3c4\ud790\ub9c1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.170103, 37.557609], "type": "Point"}, "properties": {"name": "\uc13c\ud2b8\ub7f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.975552, 37.487676], "type": "Point"}, "properties": {"name": "\uc774\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.976704, 37.477121], "type": "Point"}, "properties": {"name": "\uc138\uc778\ud2b8\ud544\ub9bd \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.998826, 37.535666], "type": "Point"}, "properties": {"name": "\ub354\ubcb3\ud55c\ub0a8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.949396, 37.504391], "type": "Point"}, "properties": {"name": "\ud488 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.973359, 37.483706], "type": "Point"}, "properties": {"name": "\ubaa8\ubc94\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.976653, 37.476829], "type": "Point"}, "properties": {"name": "\uc0ac\ub2f9\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.969897, 37.48493], "type": "Point"}, "properties": {"name": "\ub098\uc744\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.968519, 37.485887], "type": "Point"}, "properties": {"name": "\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.925465, 37.500016], "type": "Point"}, "properties": {"name": "\ud53c\ub2c9\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.925393, 37.511812], "type": "Point"}, "properties": {"name": "\uac15\ub0a8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.975808, 37.483124], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\uc740\ub0b4\uce5c\uad6c", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.939038, 37.511706], "type": "Point"}, "properties": {"name": "\ub514\uc544\ud06c\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.937997, 37.504505], "type": "Point"}, "properties": {"name": "\ud558\ub098\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.951446, 37.481735], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ud5c8\ube0c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915757, 37.476111], "type": "Point"}, "properties": {"name": "\uc640\uc6b0\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.904048, 37.480343], "type": "Point"}, "properties": {"name": "DS\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.944181, 37.482375], "type": "Point"}, "properties": {"name": "\ud615\uc81c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.944723, 37.487063], "type": "Point"}, "properties": {"name": "\ub354\ube14\uc720\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917034, 37.482598], "type": "Point"}, "properties": {"name": "\uc138\uacc4\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.916895, 37.474219], "type": "Point"}, "properties": {"name": "\ub298\ud478\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.948813, 37.486892], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.932898, 37.473068], "type": "Point"}, "properties": {"name": "\uc2e0\ub9bc\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.981467, 37.480908], "type": "Point"}, "properties": {"name": "\ub2e4\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911275, 37.480904], "type": "Point"}, "properties": {"name": "\uc2a4\ub204\ud53c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.95569, 37.479433], "type": "Point"}, "properties": {"name": "\ubd09\ucc9c\ud604\ub300\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.935261, 37.477232], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.956444, 37.486407], "type": "Point"}, "properties": {"name": "\ub85c\uc794\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.931856, 37.478241], "type": "Point"}, "properties": {"name": "\ud55c\uc131\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.928366, 37.489568], "type": "Point"}, "properties": {"name": "\ubcf4\ub77c\ub9e4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.966377, 37.47408], "type": "Point"}, "properties": {"name": "\ube44\ud0c0\ubbfc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.982413, 37.471479], "type": "Point"}, "properties": {"name": "\uc544\uc774\ub7ec\ube0c\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.966844, 37.475486], "type": "Point"}, "properties": {"name": "\uc7ac\ud65c\ud55c\ubc29 \ub098\ub214\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.92722, 37.489244], "type": "Point"}, "properties": {"name": "\uc608\uc77c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.956504, 37.480155], "type": "Point"}, "properties": {"name": "\uad00\uc545\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.901487, 37.482253], "type": "Point"}, "properties": {"name": "\uace0\ub824\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.955125, 37.484843], "type": "Point"}, "properties": {"name": "\ud504\ub80c\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.927542, 37.489143], "type": "Point"}, "properties": {"name": "\uc11c\uc9c4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.012064, 37.502953], "type": "Point"}, "properties": {"name": "\uafc8\uafb8\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.037013, 37.463395], "type": "Point"}, "properties": {"name": "\uc774\ub9ac\uc628 \uc591\uc7ac\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.917034, 37.482598], "type": "Point"}, "properties": {"name": "\uc138\uacc4\ub85c \uace0\uc591\uc774 \uc804\ubb38\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.022002, 37.486869], "type": "Point"}, "properties": {"name": "\uc11c\ucd08\uc774\uc74c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.043201, 37.669095], "type": "Point"}, "properties": {"name": "\ubc29\ud559\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.025847, 37.492368], "type": "Point"}, "properties": {"name": "\uc5d0\uc774\ube44\uc528(ABC)\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.039964, 37.470196], "type": "Point"}, "properties": {"name": "\ud558\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.007713, 37.483126], "type": "Point"}, "properties": {"name": "\ub2e4\ub2c8\uc5d8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.017034, 37.494975], "type": "Point"}, "properties": {"name": "\uad50\ub300\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.995247, 37.484657], "type": "Point"}, "properties": {"name": "\ub514\uc544\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.010807, 37.484528], "type": "Point"}, "properties": {"name": "\uc544\ub378 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.020371, 37.490282], "type": "Point"}, "properties": {"name": "\uac15\ub0a8\uc11c\ucd08 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.015131, 37.521318], "type": "Point"}, "properties": {"name": "\ub9ac\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.9915, 37.491709], "type": "Point"}, "properties": {"name": "\ubc29\ubc30\ud55c\uac15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.042167, 37.47483], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\uc758\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04598, 37.471874], "type": "Point"}, "properties": {"name": "\ud55c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040445, 37.601821], "type": "Point"}, "properties": {"name": "\ub3c4\ub2f4\ub3c4\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.987735, 37.496639], "type": "Point"}, "properties": {"name": "\ud55c\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.996069, 37.48811], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\uc81c\uc911\uc6d0\uae08\uc190\uc774 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013278, 37.509621], "type": "Point"}, "properties": {"name": "\ud574\ub728\ub294 \ub3d9\ubb3c\ubcd1\uc6d0 \ud574\uc9c8\ub158\ucc45\ubc29", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.017042, 37.485463], "type": "Point"}, "properties": {"name": "\uc11c\ucd08\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.985213, 37.48547], "type": "Point"}, "properties": {"name": "\uc2ec\ubc14\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.018502, 37.518087], "type": "Point"}, "properties": {"name": "\uc720\ub9bc\ub3d9\ubb3c\uc548\uacfc\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.000852, 37.50434], "type": "Point"}, "properties": {"name": "\uc2e0\uc138\uacc4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.984393, 37.480418], "type": "Point"}, "properties": {"name": "\uc774\uc0ad\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.009841, 37.507128], "type": "Point"}, "properties": {"name": "24\uc2dc\uc608\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.010793, 37.503354], "type": "Point"}, "properties": {"name": "\uc2e0\ubc18\ud3ec\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.998336, 37.481194], "type": "Point"}, "properties": {"name": "\ud504\ub80c\uc988\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.009099, 37.488137], "type": "Point"}, "properties": {"name": "\uc5d0\uc774\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.009099, 37.488137], "type": "Point"}, "properties": {"name": "\uc11c\ucd08\ud790\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.998524, 37.498357], "type": "Point"}, "properties": {"name": "\uc11c\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.067678, 37.575513], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.094126, 37.587496], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\uba4d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.014893, 37.488309], "type": "Point"}, "properties": {"name": "\uc11c\ucd08M\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.994604, 37.480768], "type": "Point"}, "properties": {"name": "\ubc18\ub824\ub3d9\ubb3c \uc758\ub8cc\uc13c\ud130 \ub2e4\uc6b8", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.986453, 37.492494], "type": "Point"}, "properties": {"name": "\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.024858, 37.49177], "type": "Point"}, "properties": {"name": "\uc11c\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03543, 37.493166], "type": "Point"}, "properties": {"name": "\uce04\uce04 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.05316, 37.512549], "type": "Point"}, "properties": {"name": "\ub9c8\uc774\ud3ab\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.042141, 37.497581], "type": "Point"}, "properties": {"name": "\uc704\ub108\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046319, 37.476443], "type": "Point"}, "properties": {"name": "\uac1c\ud3ec\ubcc4\ube5b\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.045183, 37.518211], "type": "Point"}, "properties": {"name": "\uad7f\ubaa8\ub2dd\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052759, 37.524504], "type": "Point"}, "properties": {"name": "\uccad\ub2f4\ub9ac\ub374\ub3d9\ubb3c\uce58\uacfc\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.039668, 37.522266], "type": "Point"}, "properties": {"name": "\uc774\ube44\uce58 \ub3d9\ubb3c\uce58\uacfc\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.080871, 37.48387], "type": "Point"}, "properties": {"name": "\uc218\uc815\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.029023, 37.519634], "type": "Point"}, "properties": {"name": "\uc2e0\uc0ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.028563, 37.531976], "type": "Point"}, "properties": {"name": "\ubd04\uc0ac\ub791 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.994128, 37.487465], "type": "Point"}, "properties": {"name": "\ub0b4\ubc29\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.045156, 37.486479], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\uc9d1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.020579, 37.52292], "type": "Point"}, "properties": {"name": "\uc555\uad6c\uc815\uc6f0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.038477, 37.491334], "type": "Point"}, "properties": {"name": "\uac15\ub0a8\ub2e4\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.038477, 37.491334], "type": "Point"}, "properties": {"name": "\ud790\uc2a4\ud0c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.026808, 37.507503], "type": "Point"}, "properties": {"name": "\ub17c\ud604\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.063445, 37.499416], "type": "Point"}, "properties": {"name": "\ub300\uce58\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.101191, 37.465782], "type": "Point"}, "properties": {"name": "\ub9c8\ub354\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040016, 37.492431], "type": "Point"}, "properties": {"name": "\uc608\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.074943, 37.620583], "type": "Point"}, "properties": {"name": "\uace8\ub4dc\ud37c\ud53c\ub3d9\ubb3c\ubcd1\uc6d0 \uacf5\ub989\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.9191, 37.556888], "type": "Point"}, "properties": {"name": "\uc6f0\ucf00\uc5b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.025376, 37.47085], "type": "Point"}, "properties": {"name": "\uc6b0\uba74\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040866, 37.506697], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\uc2ec\uc7a5\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.037691, 37.521602], "type": "Point"}, "properties": {"name": "\uccad\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03216, 37.528538], "type": "Point"}, "properties": {"name": "\uc555\uad6c\uc815\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.093881, 37.484073], "type": "Point"}, "properties": {"name": "\uc218\uc11c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.050925, 37.479263], "type": "Point"}, "properties": {"name": "\uc790\uc5f0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068818, 37.489272], "type": "Point"}, "properties": {"name": "\uac1c\ud3ec\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.050577, 37.501718], "type": "Point"}, "properties": {"name": "\uc8fc\uc8fc\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052625, 37.525156], "type": "Point"}, "properties": {"name": "\uccad\ub2f4\ub208\ucd08\ub871\uc548\uacfc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.023878, 37.511284], "type": "Point"}, "properties": {"name": "\uc640\uc774\uc98824\uc2dc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.950367, 37.541506], "type": "Point"}, "properties": {"name": "\ubc15\ucc3d\uc11d\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.034464, 37.50778], "type": "Point"}, "properties": {"name": "\uac15\ub0a8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.024199, 37.510604], "type": "Point"}, "properties": {"name": "\uadf8\ub808\uc774\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.061881, 37.513733], "type": "Point"}, "properties": {"name": "\uc544\ud06c\ub9ac\uc2a4\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.049131, 37.479167], "type": "Point"}, "properties": {"name": "\ub098\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.038921, 37.497425], "type": "Point"}, "properties": {"name": "24\uc2dc SNC \ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.037822, 37.528206], "type": "Point"}, "properties": {"name": "\uc555\uad6c\uc815\uba54\uc774\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.08342, 37.49209], "type": "Point"}, "properties": {"name": "\uc11c\uacbd\uc11d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.89466, 37.576044], "type": "Point"}, "properties": {"name": "\uc0c1\uc554\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057323, 37.502873], "type": "Point"}, "properties": {"name": "\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057748, 37.492711], "type": "Point"}, "properties": {"name": "\ub798\uc774\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027862, 37.510791], "type": "Point"}, "properties": {"name": "\ub2e4\uc815\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.039619, 37.523866], "type": "Point"}, "properties": {"name": "\uc774\uc548\ub3d9\ubb3c\uc758\ud559\uc13c\ud130(\uccad\ub2f4\uc810)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.053642, 37.501274], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04982, 37.474233], "type": "Point"}, "properties": {"name": "\ud55c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.050318, 37.502253], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052652, 37.495341], "type": "Point"}, "properties": {"name": "\uace0\ub824\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052102, 37.488673], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\uadf8\ub808\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052102, 37.488673], "type": "Point"}, "properties": {"name": "\ub300\uce58\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.023452, 37.524362], "type": "Point"}, "properties": {"name": "\uac00\ub85c\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0435, 37.512092], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\ud3ab\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.096006, 37.472023], "type": "Point"}, "properties": {"name": "\uc790\uace1\ud37c\uc2a4\ud2b8\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035717, 37.50255], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\ubc15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.042203, 37.49709], "type": "Point"}, "properties": {"name": "\ub4dc\ub9bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.904413, 37.569807], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057112, 37.521134], "type": "Point"}, "properties": {"name": "\uc77c\ub9c8\ub808 \ub3d9\ubb3c \uba54\ub514\uceec \uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04981, 37.495579], "type": "Point"}, "properties": {"name": "24\uc2dcOK\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.032376, 37.515153], "type": "Point"}, "properties": {"name": "\ucd5c\uc601\ubbfc \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.024479, 37.526223], "type": "Point"}, "properties": {"name": "\ud2bc\ud2bc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03471, 37.494226], "type": "Point"}, "properties": {"name": "\ud558\ub098\uce74\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.032751, 37.509041], "type": "Point"}, "properties": {"name": "\ucda9\ud604\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.928089, 37.55801], "type": "Point"}, "properties": {"name": "\ub9c8\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.052856, 37.514489], "type": "Point"}, "properties": {"name": "24\uc2dc \uccad\ub2f4\uc6b0\ub9ac \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035174, 37.522381], "type": "Point"}, "properties": {"name": "\uce58\ub8cc\uba4d\uba4d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046657, 37.495955], "type": "Point"}, "properties": {"name": "\ub3c4\uace1\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.03299, 37.490231], "type": "Point"}, "properties": {"name": "\uc544\uc774\ud790 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.130681, 37.510219], "type": "Point"}, "properties": {"name": "\uc900\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.117752, 37.491739], "type": "Point"}, "properties": {"name": "\ud3ab\uac00\ub4e0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.110221, 37.502389], "type": "Point"}, "properties": {"name": "\uc7a0\uc2e4\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.089403, 37.505548], "type": "Point"}, "properties": {"name": "25\uc2dc\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.127217, 37.50952], "type": "Point"}, "properties": {"name": "\ub298\ud478\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.146317, 37.49835], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\uc758\uc655\uad6d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.121039, 37.506335], "type": "Point"}, "properties": {"name": "\uac00\ub77d\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.141926, 37.494586], "type": "Point"}, "properties": {"name": "\uc628\ub9c8\uc74c \ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.079993, 37.506878], "type": "Point"}, "properties": {"name": "\uafc8\uc774\ud06c\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.084188, 37.512106], "type": "Point"}, "properties": {"name": "\uc5f0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.093919, 37.511104], "type": "Point"}, "properties": {"name": "\uac24\ub7ec\ub9ac\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.104622, 37.508544], "type": "Point"}, "properties": {"name": "\uc2a4\ud0a8\uc564\uc774\uc5b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.113437, 37.503258], "type": "Point"}, "properties": {"name": "\ud55c\uc591\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.106151, 37.520537], "type": "Point"}, "properties": {"name": "\ub9ac\uc624\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.153145, 37.499522], "type": "Point"}, "properties": {"name": "\ub450\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.11917, 37.497091], "type": "Point"}, "properties": {"name": "\ucfe8\ub3c5\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.09227, 37.507108], "type": "Point"}, "properties": {"name": "\uc7a0\uc2e4\uc90025\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.089251, 37.506249], "type": "Point"}, "properties": {"name": "KYH\uc6f0\ube59\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.103578, 37.517439], "type": "Point"}, "properties": {"name": "\ub354 \uc0f5 \ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.108796, 37.511361], "type": "Point"}, "properties": {"name": "\ud638\uc218\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.116723, 37.528607], "type": "Point"}, "properties": {"name": "\uc528\ubc00\ub808\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.110986, 37.501568], "type": "Point"}, "properties": {"name": "\uc1a1\ud30c\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.122321, 37.536409], "type": "Point"}, "properties": {"name": "\ucc9c\ud638\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.084854, 37.505494], "type": "Point"}, "properties": {"name": "\uc704\ub4dc\ud3ab\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.138689, 37.503692], "type": "Point"}, "properties": {"name": "\uae40\ubbfc\uc7ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.116661, 37.50814], "type": "Point"}, "properties": {"name": "\ud3ab\ud1a0\ud53c\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.146217, 37.498009], "type": "Point"}, "properties": {"name": "\uc624\uc8fc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.1439, 37.492993], "type": "Point"}, "properties": {"name": "\ub178\uc544\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.080513, 37.511428], "type": "Point"}, "properties": {"name": "\ud76c\ub9dd\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.093169, 37.50689], "type": "Point"}, "properties": {"name": "\ud589\ubcf5\ud55c \uc6b0\ub9ac\uc544\uc774 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.126675, 37.490862], "type": "Point"}, "properties": {"name": "\ubb38\uc815\ud0d1\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.106173, 37.505802], "type": "Point"}, "properties": {"name": "\uc11d\ucd0c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.102617, 37.520031], "type": "Point"}, "properties": {"name": "\ud0b4\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.079021, 37.511567], "type": "Point"}, "properties": {"name": "24\uc2dc\uc7a0\uc2e4ON\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.087026, 37.511994], "type": "Point"}, "properties": {"name": "\ub9ac\uc13c\uce20 \uc2a4\ud0c0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.097101, 37.50113], "type": "Point"}, "properties": {"name": "\uc774\ub8f8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12732, 37.5097], "type": "Point"}, "properties": {"name": "\uc720\uc564\ub3d9\ubb3c\uc758\ub8cc\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.126106, 37.492073], "type": "Point"}, "properties": {"name": "\ubd04\ube5b \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.142897, 37.481215], "type": "Point"}, "properties": {"name": "\uc704\ub840S\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.121748, 37.479868], "type": "Point"}, "properties": {"name": "\uc1a1\ud30c\ub370\uc77c\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.088852, 37.507656], "type": "Point"}, "properties": {"name": "\uc2e0\ucc9c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.111872, 37.509255], "type": "Point"}, "properties": {"name": "\uc1a1\ud30c\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.092982, 37.514368], "type": "Point"}, "properties": {"name": "\ub354\uc624\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.098987, 37.502875], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\ucea3 \uace0\uc591\uc774\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.123962, 37.484158], "type": "Point"}, "properties": {"name": "\uc1a1\ud30c\uc2a4\ub9c8\uc77c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12805, 37.483168], "type": "Point"}, "properties": {"name": "\uc1a1\ud30c\ubc14\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.953329, 37.557027], "type": "Point"}, "properties": {"name": "\uc6d4\ub4dc\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.136768, 37.496734], "type": "Point"}, "properties": {"name": "\uc5d0\ubc84\ud3ab \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.129274, 37.506469], "type": "Point"}, "properties": {"name": "\uc774\uc7ac\ud48d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.121248, 37.480764], "type": "Point"}, "properties": {"name": "\ud0a4\ub2e4\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.113653, 37.530223], "type": "Point"}, "properties": {"name": "\uccad\ub2f4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.106163, 37.50685], "type": "Point"}, "properties": {"name": "\uc0e4\uc778\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.122826, 37.482616], "type": "Point"}, "properties": {"name": "\ubb38\uc815\ud790\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.141926, 37.494586], "type": "Point"}, "properties": {"name": "\uc628\ub9c8\uc74c \ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.097939, 37.511287], "type": "Point"}, "properties": {"name": "\uc6f0\ub2c8\uc2a4\ub3d9\ubb3c\ubcd1\uc6d0(\ub86f\ub370\uc6d4\ub4dc\uc810)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.08788, 37.503763], "type": "Point"}, "properties": {"name": "\ud5ec\ub9ad\uc2a4\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130 \uc1a1\ud30c\ubd84\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.916813, 37.609591], "type": "Point"}, "properties": {"name": "24\uc2dc\uc608\ub2f4\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.916813, 37.609591], "type": "Point"}, "properties": {"name": "\ud5ec\ub9ac\uc624\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.118921, 37.510931], "type": "Point"}, "properties": {"name": "\ub77c\uc784\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.097397, 37.504978], "type": "Point"}, "properties": {"name": "\uc7a0\uc2e4\ubca0\uc2a4\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0 \uc218\uc220\uc7ac\ud65c\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.026685, 37.508973], "type": "Point"}, "properties": {"name": "\ucee4\ube44\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.138883, 37.535702], "type": "Point"}, "properties": {"name": "\ud3ab\ud2b8\ub9ac\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.170437, 37.560665], "type": "Point"}, "properties": {"name": "\ub2e4\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.170437, 37.560665], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0 \ubca0\ub97c\ub9b0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143048, 37.541186], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143048, 37.541186], "type": "Point"}, "properties": {"name": "\uc815\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.171772, 37.550773], "type": "Point"}, "properties": {"name": "Dr.\ubca0\ud1a0\ubca4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.171772, 37.550773], "type": "Point"}, "properties": {"name": "\ub298\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.171772, 37.550773], "type": "Point"}, "properties": {"name": "\uc2dc\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.171772, 37.550773], "type": "Point"}, "properties": {"name": "\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0 \uac15\ub3d9\uc554\uc0ac\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.171772, 37.550773], "type": "Point"}, "properties": {"name": "\uace0\ub35524\uc2dc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.124201, 37.529034], "type": "Point"}, "properties": {"name": "\uac00\ub78c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.124201, 37.529034], "type": "Point"}, "properties": {"name": "\ub0b4\ud488\uc5d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.137195, 37.528835], "type": "Point"}, "properties": {"name": "Dr.\uc8fc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143673, 37.547277], "type": "Point"}, "properties": {"name": "\ubbf8\ub4dc\ubbf8\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143673, 37.547277], "type": "Point"}, "properties": {"name": "\ube44\ud0c0\ubbfc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143673, 37.547277], "type": "Point"}, "properties": {"name": "\uc131\ub0b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12772, 37.55148], "type": "Point"}, "properties": {"name": "\uc62c\ubc14\ub978\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.129233, 37.554064], "type": "Point"}, "properties": {"name": "\ub9c8\ub9ac\uc2a4\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.133651, 37.522454], "type": "Point"}, "properties": {"name": "\ubc29\uc8fc\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.151371, 37.546336], "type": "Point"}, "properties": {"name": "\uc0ac\ub791\uc774\uc788\ub294\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12791, 37.552011], "type": "Point"}, "properties": {"name": "\uc554\uc0ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.136721, 37.55492], "type": "Point"}, "properties": {"name": "\uac00\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.130409, 37.541747], "type": "Point"}, "properties": {"name": "\uc138\uc885\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.144142, 37.535125], "type": "Point"}, "properties": {"name": "\uae38\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.146727, 37.550257], "type": "Point"}, "properties": {"name": "\ud53c\uce74\uc18c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.173104, 37.548257], "type": "Point"}, "properties": {"name": "GD\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.173104, 37.548257], "type": "Point"}, "properties": {"name": "\ub2e4\ub798\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143436, 37.549273], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0 \uacf5\uac10", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.141933, 37.542379], "type": "Point"}, "properties": {"name": "\uac15\ub3d9\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.141933, 37.542379], "type": "Point"}, "properties": {"name": "\ub450\ub8e8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.121466, 37.532097], "type": "Point"}, "properties": {"name": "\ub2e5\ud130\ud45c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.140385, 37.555311], "type": "Point"}, "properties": {"name": "\ub3cc\ubd04\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.135984, 37.534371], "type": "Point"}, "properties": {"name": "\uac15\ub3d924\uc2dc SKY \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.147083, 37.558949], "type": "Point"}, "properties": {"name": "\uace0\ub355 \uace0\ub798\ud790\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.136593, 37.529906], "type": "Point"}, "properties": {"name": "\ub454\ucd0c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143315, 37.548564], "type": "Point"}, "properties": {"name": "\uc548\ub2e8\ud14c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.135634, 37.54806], "type": "Point"}, "properties": {"name": "CH\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.135634, 37.54806], "type": "Point"}, "properties": {"name": "\ud604\ub300\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.135634, 37.54806], "type": "Point"}, "properties": {"name": "\ud574\ud0dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143229, 37.533961], "type": "Point"}, "properties": {"name": "\uae40\ud0dc\ud654\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12151, 37.532202], "type": "Point"}, "properties": {"name": "\ubc15\ud615\uc6b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12151, 37.532202], "type": "Point"}, "properties": {"name": "\uc5f4\ub9b024\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12151, 37.532202], "type": "Point"}, "properties": {"name": "\uc96c\ub77c\uae30\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.17409, 37.564633], "type": "Point"}, "properties": {"name": "\uc544\ud504\ub9ac\uce74\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.934441, 37.485883], "type": "Point"}, "properties": {"name": "\uc591\uc9c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.041668, 37.480918], "type": "Point"}, "properties": {"name": "\uc5d0\uc774\ube14 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.128148, 37.492809], "type": "Point"}, "properties": {"name": "\uc5d0\ucf54\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.856361, 37.560088], "type": "Point"}, "properties": {"name": "24\uc2dc \uc548\ubc15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.942921, 37.479784], "type": "Point"}, "properties": {"name": "\ube44\ubc14\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.133072, 37.494233], "type": "Point"}, "properties": {"name": "\uc601\uad6d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.951764, 37.468199], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub300\ud559\uad50 \uc218\uc758\uacfc\ub300\ud559 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.907044, 37.581801], "type": "Point"}, "properties": {"name": "\ud55c\uc21824\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04373, 37.514602], "type": "Point"}, "properties": {"name": "\ud61c\ubbfc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.912042, 37.510836], "type": "Point"}, "properties": {"name": "\uc628\ub204\ub9ac \uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.905041, 37.532093], "type": "Point"}, "properties": {"name": "\uc774\ub4e0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.078767, 37.601781], "type": "Point"}, "properties": {"name": "\uace8\ub4dc\ud37c\ud53c&\uc2e4\ubc84\ucea3", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.175125, 37.57239], "type": "Point"}, "properties": {"name": "\uba54\uc774\ud50c \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.840429, 37.562899], "type": "Point"}, "properties": {"name": "\ucc28\uc9c0\uc6b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.997212, 37.499149], "type": "Point"}, "properties": {"name": "\uc774\uc744\ubc18\ub824\ub3d9\ubb3c\ucf00\uc5b4\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.909568, 37.481184], "type": "Point"}, "properties": {"name": "\ub7ec\ube0c\ud3ab\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.040105, 37.557154], "type": "Point"}, "properties": {"name": "\ubc14\uc6b0\ub77c\uc6c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.9168, 37.550795], "type": "Point"}, "properties": {"name": "\uc544\uc774\uc5e0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.023268, 37.569116], "type": "Point"}, "properties": {"name": "\uc6f0\ud2bc\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.982156, 37.479674], "type": "Point"}, "properties": {"name": "VIP\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130 \uc11c\ucd08\ub3d9\uc791\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.937881, 37.543034], "type": "Point"}, "properties": {"name": "\ub2e5\ud130 \ud638\uc624 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068608, 37.639919], "type": "Point"}, "properties": {"name": "\uace8\ub4dc\ud37c\ud53c\ub3d9\ubb3c\ubcd1\uc6d0 \uc911\uacc4\uc810", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.144483, 37.535409], "type": "Point"}, "properties": {"name": "\uc591\uc9c0\uac00\ucd95\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.049941, 37.660372], "type": "Point"}, "properties": {"name": "\ube14\ub8e8\ud540\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.950741, 37.500029], "type": "Point"}, "properties": {"name": "\uc815\uaca8\uc6b4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.031766, 37.661265], "type": "Point"}, "properties": {"name": "\uc720\ud604\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046757, 37.50687], "type": "Point"}, "properties": {"name": "\uc120\ub989\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.859603, 37.515426], "type": "Point"}, "properties": {"name": "\uc0b0\ucc45\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.066076, 37.535809], "type": "Point"}, "properties": {"name": "\uc774\ub2e4\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.840279, 37.517568], "type": "Point"}, "properties": {"name": "\ud30c\ub780\uc885\ud569 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.971164, 37.579043], "type": "Point"}, "properties": {"name": "\uad11\ud654\ubb38\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.044644, 37.52456], "type": "Point"}, "properties": {"name": "\uc774\ub9ac\uc628\ub3d9\ubb3c\uc758\ub8cc\uc6d0(\uccad\ub2f4\uc810)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.939513, 37.544844], "type": "Point"}, "properties": {"name": "\uc6a9\uac15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.039305, 37.500126], "type": "Point"}, "properties": {"name": "\ubc31\uc0b0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.02998, 37.520727], "type": "Point"}, "properties": {"name": "24\uc2dc \uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\ubcd1\uc6d0(\uc2e0\uc0ac\ubcf8\uc6d0)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.994039, 37.484953], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0\ubc29\ubc30", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.909807, 37.493469], "type": "Point"}, "properties": {"name": "\uc720\uc11d\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.933617, 37.605869], "type": "Point"}, "properties": {"name": "\uc5b4\uc6b8\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.021, 37.620828], "type": "Point"}, "properties": {"name": "\uc0bc\uc591\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.081029, 37.549561], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc5b4\ub9b0\uc774\ub300\uacf5\uc6d0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.82462, 37.480932], "type": "Point"}, "properties": {"name": "\ud56d\ub3d9\ud478\ub978\uc232\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.12211, 37.482318], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0\uc54c\ub8e8", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.057593, 37.571949], "type": "Point"}, "properties": {"name": "\uc544\uc774\uc6d0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.853626, 37.517729], "type": "Point"}, "properties": {"name": "24\uc2dc \uc11c\uc6b8 \ud0d1 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.819325, 37.559289], "type": "Point"}, "properties": {"name": "24\uc2dc \uac15\uc11c \uc820\ud2c0\ub9ac\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.903341, 37.517075], "type": "Point"}, "properties": {"name": "\ub7ec\ube0c\ud3ab \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.022358, 37.504797], "type": "Point"}, "properties": {"name": "V+care \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.044867, 37.484254], "type": "Point"}, "properties": {"name": "\ub300\uc131\ub3d9\ubb3c\uc57d\ud488\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.050492, 37.519738], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub3d9\uc0dd \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.137083, 37.50054], "type": "Point"}, "properties": {"name": "\ucc44\uc6c0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.013939, 37.506679], "type": "Point"}, "properties": {"name": "\ubc18\ud3ec\uc790\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.035016, 37.515597], "type": "Point"}, "properties": {"name": "\uac15\ub0a825\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.003574, 37.508788], "type": "Point"}, "properties": {"name": "\ud30c\ud30c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.874249, 37.521661], "type": "Point"}, "properties": {"name": "\ub9ac\ub354\uc2a4 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.049193, 37.51965], "type": "Point"}, "properties": {"name": "\uc544\uc774\uc70c24\uc2dc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.111517, 37.502209], "type": "Point"}, "properties": {"name": "\ub77c\uc628\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.046499, 37.669419], "type": "Point"}, "properties": {"name": "\uc774n\uae40\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.863776, 37.535128], "type": "Point"}, "properties": {"name": "\ud558\ub2c8\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.905414, 37.515686], "type": "Point"}, "properties": {"name": "\uacbd\uc778\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.06096, 37.589493], "type": "Point"}, "properties": {"name": "\ud558\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073923, 37.62171], "type": "Point"}, "properties": {"name": "\uba54\uc778\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.990681, 37.487164], "type": "Point"}, "properties": {"name": "HELP \uc720\uae30\ub3d9\ubb3c \uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.975027, 37.51933], "type": "Point"}, "properties": {"name": "(\uc8fc)\uc774\uc0c1\uc724\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04903, 37.519441], "type": "Point"}, "properties": {"name": "VIP\ub3d9\ubb3c\ud55c\ubc29\uc7ac\ud65c\uc758\ud559\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.07174, 37.65097], "type": "Point"}, "properties": {"name": "\uc5d8\ucf00\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.871014, 37.497931], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\ubcf5\uc9c0\uc9c0\uc6d0\uc13c\ud130 \ub3d9\ubb3c\ubcd1\uc6d0(\uad6c\ub85c)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.138148, 37.53179], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.851408, 37.522568], "type": "Point"}, "properties": {"name": "\uc6b0\uc2e0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.851408, 37.522568], "type": "Point"}, "properties": {"name": "\ub300\uce58\uc131\uc2ec\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068125, 37.653177], "type": "Point"}, "properties": {"name": "\ud55c\uad6d\ub3d9\ubb3c\uc554\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068125, 37.653177], "type": "Point"}, "properties": {"name": "\uc564(N)\uace0\uc591\uc774\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.041348, 37.509991], "type": "Point"}, "properties": {"name": "\uc911\uc559\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.830023, 37.49628], "type": "Point"}, "properties": {"name": "365 \ub9c8\uc74c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.033691, 37.558679], "type": "Point"}, "properties": {"name": "24\uc2dc\uc13c\ud2b8\ub7f4\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.864942, 37.522915], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub4e4\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.906239, 37.452567], "type": "Point"}, "properties": {"name": "\uc81c\uc77c\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.969907, 37.520008], "type": "Point"}, "properties": {"name": "24\uc2dc \uc2dc\uc720\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.918127, 37.599781], "type": "Point"}, "properties": {"name": "24\uc2dc\uc2a4\ub9c8\ud2b8\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0819, 37.535685], "type": "Point"}, "properties": {"name": "\uc6b0\uc8fc\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.068125, 37.653177], "type": "Point"}, "properties": {"name": "\uc8fc\uc2dd\ud68c\uc0ac \ub178\uc6d024\uc2dc\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.83659, 37.550908], "type": "Point"}, "properties": {"name": "\uc6b0\uc7a5\uc0b0\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.896618, 37.509008], "type": "Point"}, "properties": {"name": "\ub3c4\ub9bc\ud558\ub098\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.146096, 37.528144], "type": "Point"}, "properties": {"name": "\uc591\uc9c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.141387, 37.534158], "type": "Point"}, "properties": {"name": "\ub85c\uc584\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130 \uac15\ub3d9", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.938143, 37.555163], "type": "Point"}, "properties": {"name": "\uc6e8\uc2a4\ud134 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.828589, 37.559049], "type": "Point"}, "properties": {"name": "\ub545\ucf69 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.984561, 37.491053], "type": "Point"}, "properties": {"name": "\ud5e4\uc774\ube10\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.984561, 37.491053], "type": "Point"}, "properties": {"name": "24\uc2dc\uc544\ud504\ub9ac\uce74\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.946308, 37.504426], "type": "Point"}, "properties": {"name": "\uc9c0\uc5d4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073725, 37.542541], "type": "Point"}, "properties": {"name": "\uac74\uad6d\ub300\ud559\uad50 \ubd80\uc18d \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.946954, 37.554274], "type": "Point"}, "properties": {"name": "\uc11c\uc6b8\uc900\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.8651, 37.508223], "type": "Point"}, "properties": {"name": "\ucc38\uc0ac\ub791\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.862807, 37.503804], "type": "Point"}, "properties": {"name": "\uc62c\ub9ac\ube0c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.956922, 37.480004], "type": "Point"}, "properties": {"name": "24\uc2dc \uad7f\ucf00\uc5b4\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.107108, 37.474426], "type": "Point"}, "properties": {"name": "\uc5bc\ubc14\uc778\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.087473, 37.597229], "type": "Point"}, "properties": {"name": "\ub2e5\ud130 \uc544\uc774\ud3ab \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.0859, 37.588195], "type": "Point"}, "properties": {"name": "\ud55c\uad6d\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130(KAMC)", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.043026, 37.5132], "type": "Point"}, "properties": {"name": "\ud37c\ud53c\uc98c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.083938, 37.531597], "type": "Point"}, "properties": {"name": "\ud574\ub9d1\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.000852, 37.50434], "type": "Point"}, "properties": {"name": "\ub450\ub9ac\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.942383, 37.505034], "type": "Point"}, "properties": {"name": "\uc720\ucf00\uc5b4\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.008036, 37.552075], "type": "Point"}, "properties": {"name": "\uc560\ub2c8\ucef4 \uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.90632, 37.505781], "type": "Point"}, "properties": {"name": "\ub2e4\uc6c0\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.884119, 37.506845], "type": "Point"}, "properties": {"name": "24\uc2dc \uc2e0\ub3c4\ub9bcS\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.935759, 37.572772], "type": "Point"}, "properties": {"name": "\ud5ec\ub85c\uc6b0 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.85641, 37.489089], "type": "Point"}, "properties": {"name": "\ucf00\uc774\ub098\uc778\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.065266, 37.572583], "type": "Point"}, "properties": {"name": "\ub545\ucf69\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.837752, 37.516277], "type": "Point"}, "properties": {"name": "\uc2e0\uc6d4\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.863384, 37.549625], "type": "Point"}, "properties": {"name": "\ub85c\uc6b4\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.910822, 37.554839], "type": "Point"}, "properties": {"name": "\ub9dd\uc6d0\ub3d9\ubb3c\uc885\ud569\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915763, 37.562038], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub3d9\uc0dd \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.04127, 37.48493], "type": "Point"}, "properties": {"name": "\ub808\uc2a4\ud3ab\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.141387, 37.534158], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\uc601\uc0c1\uc9c4\ub2e8\uc13c\ud130/\ub098\uc74c\uace0\uc591\uc774\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.116499, 37.507006], "type": "Point"}, "properties": {"name": "\uc1a1\uc774\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.957897, 37.546442], "type": "Point"}, "properties": {"name": "C.T.\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.954299, 37.557093], "type": "Point"}, "properties": {"name": "\uc18c\ub9dd\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.92509, 37.598202], "type": "Point"}, "properties": {"name": "\uc2a4\uba38\ud504\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.980035, 37.517891], "type": "Point"}, "properties": {"name": "\uae08\uac15\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.952166, 37.548928], "type": "Point"}, "properties": {"name": "\ub0a0\uc73c\ub294 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.910824, 37.565999], "type": "Point"}, "properties": {"name": "\ub77c\uc628\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.946045, 37.544701], "type": "Point"}, "properties": {"name": "\uad7f\ubaa8\ub2dd \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.888689, 37.577686], "type": "Point"}, "properties": {"name": "\uc544\ud504\uc9c0\ub9d0\uac8c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.922506, 37.557709], "type": "Point"}, "properties": {"name": "\uc6cc\ub108\ube44 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.952675, 37.54456], "type": "Point"}, "properties": {"name": "\uacf5\ub355 \uac74\uac15\ud55c \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.947242, 37.537809], "type": "Point"}, "properties": {"name": "\ub3c4\ud654\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.958701, 37.552178], "type": "Point"}, "properties": {"name": "\ud790\ub9c1 24\uc2dc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911866, 37.551053], "type": "Point"}, "properties": {"name": "\ucea3&\ub374\ud0c8 \ud558\uc774\ub514 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.906545, 37.552897], "type": "Point"}, "properties": {"name": "\ubc15\ud6a8\ub9ac\uad70 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.93135, 37.601415], "type": "Point"}, "properties": {"name": "24\uc2dc \uce58\uc720\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.911229, 37.507208], "type": "Point"}, "properties": {"name": "\uc6b0\uc2e0\uc885\ud569\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.852176, 37.556966], "type": "Point"}, "properties": {"name": "\uac15\uc11cYD\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.961289, 37.570925], "type": "Point"}, "properties": {"name": "\uc6b0\ub9ac\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.027746, 37.521202], "type": "Point"}, "properties": {"name": "\uc5d0\uc774\ub4dc \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.977939, 37.548712], "type": "Point"}, "properties": {"name": "\uc544\ud504\ub9ac\uce74\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.811697, 37.561564], "type": "Point"}, "properties": {"name": "\uc1a1\uc815\ub3d9\ubb3c\uba54\ub514\uceec\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.073555, 37.571965], "type": "Point"}, "properties": {"name": "VIP\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.893136, 37.576335], "type": "Point"}, "properties": {"name": "\ub3d9\ubb3c\ubcd1\uc6d0 \ub2e5\ud130K", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.08002, 37.595436], "type": "Point"}, "properties": {"name": "24\uc2dc \ub3d9\ubb3c\uc751\uae09\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.915707, 37.585642], "type": "Point"}, "properties": {"name": "\ub2e4\uc19c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.826463, 37.553454], "type": "Point"}, "properties": {"name": "\ub9c8\uc74c\uc0ac\ub791 \ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.840864, 37.515305], "type": "Point"}, "properties": {"name": "\uc815\ub9d0\ub85c\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.912237, 37.553381], "type": "Point"}, "properties": {"name": "\uc774\uce35\uc560 \uace0\uc591\uc774\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [127.143715, 37.479567], "type": "Point"}, "properties": {"name": "\uc704\ub840 \ubcc4 \ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.843014, 37.519185], "type": "Point"}, "properties": {"name": "\uc2e0\uc6d4\ub77c\uc628\ub3d9\ubb3c\uc758\ub8cc\uc13c\ud130", "type": "animal_hospital"}, "type": "Feature"}
+{"geometry": {"coordinates": [126.926683, 37.616529], "type": "Point"}, "properties": {"name": "\ub2f4\uc740\ub3d9\ubb3c\ubcd1\uc6d0", "type": "animal_hospital"}, "type": "Feature"}
