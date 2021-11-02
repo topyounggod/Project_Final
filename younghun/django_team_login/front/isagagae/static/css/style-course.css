@@ -1,0 +1,37 @@
+.course-box{
+    padding: 40px;
+    margin: 20px;
+    text-align:left;
+    background: #35424a;
+    color: #fff;
+    border-radius: 5px;
+}
+section#courses {
+    text-align: center;
+}
+.course-box{
+    position: relative;
+    left: 0%;
+}
+.odd{
+    animation: ani-3 2s ease-out .5s 1 alternate forwards;
+}
+.even{
+    animation: ani-4 2s ease-out .5s 1 alternate forwards;
+}
+@keyframes ani-3{
+    0%{
+        left:-200%;
+    }
+    100%{
+        left:0%;
+    }
+}
+@keyframes ani-4{
+    0%{
+        left:200%;
+    }
+    100%{
+        left:0%;
+    }
+}

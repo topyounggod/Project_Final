@@ -1,0 +1,57 @@
+section#contact .container{
+    text-align: center;
+    background:#35424a;
+    margin-top: 20px;
+    padding: 20px;
+    color: #fff;
+}
+section#contact .container form{
+    /* width: 60%;
+    margin: auto; */
+    text-align: left;
+}
+section#contact .container form input,textarea{
+    font-size: 16px;
+    padding: 5px;
+    width:60%;
+    border-radius: 5px;
+    border:0;
+}
+section#contact .container form input,textarea,label{
+    margin: 5px 0;
+}
+textarea{
+    max-width: 253px;
+    min-width: 150px;
+    max-height: 100px;
+    min-height: 100px;
+
+}
+section#contact .container .part{
+    width: 48%;
+    display: inline-block;
+    margin: auto;
+    vertical-align: middle;
+}
+@media screen and (max-width:780px)
+{
+    section#contact .container .part
+    {
+        width:100%;
+    }
+    .part form{
+        width: 80%;
+        margin: auto;
+    }
+    section#contact .container form input,textarea{
+        width:60%;
+    }
+    
+}
+section#contact .container form .btn{
+    padding: 10px;
+    background-color: #ccc;
+    border: 0;
+    border-radius: 5px;
+    width:100px;
+}
