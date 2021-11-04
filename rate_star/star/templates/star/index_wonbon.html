@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% load static %}
+
+<head>
+    <meta charset="UTF-8">
+    <title>★</title>
+
+    <link rel="stylesheet" href="{% static 'star.css' %}" type="text/css" />
+    <link rel="stylesheet" href="{% static 'bootstrap/css/bootstrap.min.css' %}" type="text/css" />
+    <link rel="stylesheet" href="{% static 'css/font-awesome/css/font-awesome.css' %}" type="text/css" />
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" type="text/css" />
+    <link rel="stylesheet" href="{% static 'css/no-ui-slider/jquery.nouislider.css' %}" type="text/css" />
+
+</head>
+<body>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<div class="HEALTH">
+    <h5>HEALTH</h5>
+<!--    <form name="reviewform" class="reviewform" method="get" action="./user/savestar/">{% csrf_token %}-->
+<!--        <input type="hidden" name="rate" id="health_rate" value="0"/>-->
+        <p class="title_star">별점을 남겨주세요.</p>
+
+        <div class="review_rating">
+            <div class="warning_msg">별점을 선택해 주세요.</div>
+            <div class="rating">
+                <!-- 해당 별점을 클릭하면 해당 별과 그 왼쪽의 모든 별의 체크박스에 checked 적용 -->
+
+                <input type="checkbox" name="rating" id="H_rating1" value="1" class="rate_radio" title="1점">
+                <label for="H_rating1"></label>
+                <input type="checkbox" name="rating" id="H_rating2" value="2" class="rate_radio" title="2점">
+                <label for="H_rating2"></label>
+                <input type="checkbox" name="rating" id="H_rating3" value="3" class="rate_radio" title="3점" >
+                <label for="H_rating3"></label>
+                <input type="checkbox" name="rating" id="H_rating4" value="4" class="rate_radio" title="4점">
+                <label for="H_rating4"></label>
+                <input type="checkbox" name="rating" id="H_rating5" value="5" class="rate_radio" title="5점">
+                <label for="H_rating5"></label>
+
+                <!-- 저장하기 버튼 누르지 않아도 별만 눌렀을 때 저장됨,, 이거 counting 함수를 따로 뺄 수 없을까,,?  -->
+                <span class = 'input-group-btn'>
+<!--                    <form method="post"> {% csrf_token %}-->
+<!--
+                     <button class = "btn btn-default" onclick="counting()">저장하기!</button>
+-->
+<!---->
+<!--                    </form>-->
+
+<!--                    <button class = "btn btn-default" type = "submit">저장하기!</button>-->
+                </span>
+                 <!-- submit 말고 버튼 / name = rating 인 것들 중에 에 대해서 체크 true 개수 세기-->
+            </div>
+        </div>
+<!--    </form>-->
+</div>
+
+<div class="PLAY">
+    <h5>PLAY</h5>
+<!--    <form name="reviewform" class="reviewform" method="get" action="./user/savestar/">{% csrf_token %}-->
+<!--        <input type="hidden" name="rate" id="play_rate" value="0"/>-->
+        <p class="title_star">별점을 남겨주세요.</p>
+
+        <div class="review_rating">
+            <div class="warning_msg">별점을 선택해 주세요.</div>
+            <div class="rating">
+                <!-- 해당 별점을 클릭하면 해당 별과 그 왼쪽의 모든 별의 체크박스에 checked 적용 -->
+                <input type="checkbox" name="rating" id="P_rating1" value="1" class="rate_radio" title="1점">
+                <label for="P_rating1"></label>
+                <input type="checkbox" name="rating" id="P_rating2" value="2" class="rate_radio" title="2점">
+                <label for="P_rating2"></label>
+                <input type="checkbox" name="rating" id="P_rating3" value="3" class="rate_radio" title="3점" >
+                <label for="P_rating3"></label>
+                <input type="checkbox" name="rating" id="P_rating4" value="4" class="rate_radio" title="4점">
+                <label for="P_rating4"></label>
+                <input type="checkbox" name="rating" id="P_rating5" value="5" class="rate_radio" title="5점">
+                <label for="P_rating5"></label>
+
+                <span class = 'input-group-btn'>
+<!--                    <form method="post"> {% csrf_token %}-->
+<!--
+                     <button class = "btn btn-default" onclick="counting()" type = 'submit'>저장하기!</button>
+-->
+<!---->
+<!--                    </form>-->
+
+<!--                    <button class = "btn btn-default" type = "submit">저장하기!</button>-->
+                </span>
+                <!-- submit 말고 버튼 / name = rating 인 것들 중에 에 대해서 체크 true 개수 세기-->
+            </div>
+        </div>
+<!--    </form>-->
+</div>
+
+<div class="FOOD">
+    <h5>FOOD</h5>
+<!--    <form name="reviewform" class="reviewform" method="get" action="./user/savestar/">{% csrf_token %}-->
+<!--        <input type="hidden" name="rate" id="food_rate" value="0"/>-->
+        <p class="title_star">별점을 남겨주세요.</p>
+
+        <div class="review_rating">
+            <div class="warning_msg">별점을 선택해 주세요.</div>
+            <div class="rating">
+                <!-- 해당 별점을 클릭하면 해당 별과 그 왼쪽의 모든 별의 체크박스에 checked 적용 -->
+                <input type="checkbox" name="rating" id="F_rating1" value="1" class="rate_radio" title="1점">
+                <label for="F_rating1"></label>
+                <input type="checkbox" name="rating" id="F_rating2" value="2" class="rate_radio" title="2점">
+                <label for="F_rating2"></label>
+                <input type="checkbox" name="rating" id="F_rating3" value="3" class="rate_radio" title="3점" >
+                <label for="F_rating3"></label>
+                <input type="checkbox" name="rating" id="F_rating4" value="4" class="rate_radio" title="4점">
+                <label for="F_rating4"></label>
+                <input type="checkbox" name="rating" id="F_rating5" value="5" class="rate_radio" title="5점">
+                <label for="F_rating5"></label>
+
+                <span class = 'input-group-btn'>
+<!--                    <form method="post"> {% csrf_token %}-->
+<!--
+                     <button class = "btn btn-default" onclick="counting()" type = 'submit'>저장하기!</button>
+-->
+<!---->
+<!--                    </form>-->
+
+<!--                    <button class = "btn btn-default" type = "submit">저장하기!</button>-->
+                </span>
+                <!-- submit 말고 버튼 / name = rating 인 것들 중에 에 대해서 체크 true 개수 세기-->
+            </div>
+        </div>
+<!--    </form>-->
+</div>
+
+<div class="BEAUTY">
+    <h5>BEAUTY</h5>
+<!--    <form name="reviewform" class="reviewform" method="get" action="./user/savestar/">{% csrf_token %}-->
+<!--        <input type="hidden" name="rate" id="beauty_rate" value="0"/>-->
+        <p class="title_star">별점을 남겨주세요.</p>
+
+        <div class="review_rating">
+            <div class="warning_msg">별점을 선택해 주세요.</div>
+            <div class="rating">
+                <!-- 해당 별점을 클릭하면 해당 별과 그 왼쪽의 모든 별의 체크박스에 checked 적용 -->
+                <input type="checkbox" name="rating" id="B_rating1" value="1" class="rate_radio" title="1점">
+                <label for="B_rating1"></label>
+                <input type="checkbox" name="rating" id="B_rating2" value="2" class="rate_radio" title="2점">
+                <label for="B_rating2"></label>
+                <input type="checkbox" name="rating" id="B_rating3" value="3" class="rate_radio" title="3점" >
+                <label for="B_rating3"></label>
+                <input type="checkbox" name="rating" id="B_rating4" value="4" class="rate_radio" title="4점">
+                <label for="B_rating4"></label>
+                <input type="checkbox" name="rating" id="B_rating5" value="5" class="rate_radio" title="5점">
+                <label for="B_rating5"></label>
+
+                <span class = 'input-group-btn'>
+<!--                    <form method="post"> {% csrf_token %}-->
+<!--
+                     <button class = "btn btn-default" onclick="counting()" type = 'submit'>저장하기!</button>
+-->
+<!---->
+<!--                    </form>-->
+
+<!--                    <button class = "btn btn-default" type = "submit">저장하기!</button>-->
+                </span>
+                <!-- submit 말고 버튼 / name = rating 인 것들 중에 에 대해서 체크 true 개수 세기-->
+            </div>
+        </div>
+<!--    </form>-->
+</div>
+
+<div class="LIFE">
+    <h5>LIFE</h5>
+<!--    <form name="reviewform" class="reviewform" method="get" action="./user/savestar/">{% csrf_token %}-->
+<!--        <input type="hidden" name="rate" id="life_rate" value="0"/>-->
+        <p class="title_star">별점을 남겨주세요.</p>
+
+        <div class="review_rating">
+            <div class="warning_msg">별점을 선택해 주세요.</div>
+            <div class="rating">
+                <!-- 해당 별점을 클릭하면 해당 별과 그 왼쪽의 모든 별의 체크박스에 checked 적용 -->
+                <input type="checkbox" name="rating" id="L_rating1" value="1" class="rate_radio" title="1점">
+                <label for="L_rating1"></label>
+                <input type="checkbox" name="rating" id="L_rating2" value="2" class="rate_radio" title="2점">
+                <label for="L_rating2"></label>
+                <input type="checkbox" name="rating" id="L_rating3" value="3" class="rate_radio" title="3점" >
+                <label for="L_rating3"></label>
+                <input type="checkbox" name="rating" id="L_rating4" value="4" class="rate_radio" title="4점">
+                <label for="L_rating4"></label>
+                <input type="checkbox" name="rating" id="L_rating5" value="5" class="rate_radio" title="5점">
+                <label for="L_rating5"></label>
+
+                <span class = 'input-group-btn'>
+<!--                    <form method="post"> {% csrf_token %}-->
+<!--
+                     <button class = "btn btn-default" onclick="counting()" type = 'submit'>저장하기!</button>
+-->
+<!---->
+<!--                    </form>-->
+
+<!--                    <button class = "btn btn-default" type = "submit">저장하기!</button>-->
+                </span>
+                <!-- submit 말고 버튼 / name = rating 인 것들 중에 에 대해서 체크 true 개수 세기-->
+            </div>
+        </div>
+<!--    </form>-->
+</div>
+
+<div class="CARE">
+    <h5>CARE</h5>
+<!--    <form name="reviewform" class="reviewform" method="get" action="./user/savestar/">{% csrf_token %}-->
+<!--        <input type="hidden" name="rate" id="care_rate" value="0"/>-->
+        <p class="title_star">별점을 남겨주세요.</p>
+
+        <div class="review_rating">
+            <div class="warning_msg">별점을 선택해 주세요.</div>
+            <div class="rating">
+                <!-- 해당 별점을 클릭하면 해당 별과 그 왼쪽의 모든 별의 체크박스에 checked 적용 -->
+                <input type="checkbox" name="rating" id="C_rating1" value="1" class="rate_radio" title="1점">
+                <label for="C_rating1"></label>
+                <input type="checkbox" name="rating" id="C_rating2" value="2" class="rate_radio" title="2점">
+                <label for="C_rating2"></label>
+                <input type="checkbox" name="rating" id="C_rating3" value="3" class="rate_radio" title="3점" >
+                <label for="C_rating3"></label>
+                <input type="checkbox" name="rating" id="C_rating4" value="4" class="rate_radio" title="4점">
+                <label for="C_rating4"></label>
+                <input type="checkbox" name="rating" id="C_rating5" value="5" class="rate_radio" title="5점">
+                <label for="C_rating5"></label>
+
+                <span class = 'input-group-btn'>
+<!--                    <form method="post"> {% csrf_token %}-->
+<!--
+                     <button class = "btn btn-default" onclick="counting()" type = 'submit'>저장하기!</button>
+-->
+<!---->
+<!--                    </form>-->
+
+<!--                    <button class = "btn btn-default" type = "submit">저장하기!</button>-->
+                </span>
+                <!-- submit 말고 버튼 / name = rating 인 것들 중에 에 대해서 체크 true 개수 세기-->
+                <button class = "btn btn-default" id="countstar" >저장하기!</button>
+            </div>
+        </div>
+<!--    </form>-->
+</div>
+
+     <div class="row features-row wow fadeInUp">
+            <div class="col-md-4 col-sm-12 feature-column">
+               <div class="feature-icon">
+                  <i class="icon-eyeglasses size-2x highlight"></i>
+                  <i class="icon-eyeglasses back-icon"></i>
+               </div>
+               <div class="feature-info">
+                  <h4>Health</h4>
+                  <p class="feature-description">반려동물의 건강을 책임질 <br>병원, 약국</p>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 feature-column">
+               <div class="feature-icon">
+                  <i class="icon-lock-open size-2x highlight"></i>
+                  <i class="icon-lock-open back-icon"></i>
+               </div>
+               <div class="feature-info">
+                  <h4>Play</h4>
+                  <p class="feature-description">반려동물과 함께 뛰놀 수 있는 <br>놀이터, 공원</p>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 feature-column">
+               <div class="feature-icon">
+                  <i class="icon-energy size-2x highlight"></i>
+                  <i class="icon-energy back-icon"></i>
+               </div>
+               <div class="feature-info">
+                  <h4>Food</h4>
+                  <p class="feature-description">반려동물과 함께 갈 수 있는 <br>식당 및 카페</p>
+               </div>
+            </div>
+         </div>
+
+        <div class="row wow fadeInUp">
+            <div class="col-md-4 col-sm-12 feature-column">
+               <div class="feature-icon">
+                  <i class="icon-settings size-2x highlight"></i>
+                  <i class="icon-settings back-icon"></i>
+               </div>
+               <div class="feature-info">
+                  <h4>Beauty </h4>
+                  <p class="feature-description">반려동물을 예쁘게 단장할 <br>미용실</p>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 feature-column">
+               <div class="feature-icon">
+                  <i class="icon-book-open size-2x highlight"></i>
+                  <i class="icon-book-open back-icon"></i>
+               </div>
+               <div class="feature-info">
+                  <h4>Life</h4>
+                  <p class="feature-description">반려동물의 일상과 관련된 <br>펫택시, 동물용품판매점, 동물판매업, 사료제조업 </p>
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12 feature-column">
+               <div class="feature-icon">
+                  <i class="icon-support size-2x highlight"></i>
+                  <i class="icon-support back-icon"></i>
+               </div>
+               <div class="feature-info">
+                  <h4>Care</h4>
+                  <p class="feature-description">반려동물 교육 및 위탁을 책임지는 <br>유치원, 호텔링</p>
+               </div>
+            </div>
+         </div>
+
+
+
+<script type="text/javascript" src="{% static 'js/star_3.js' %}"></script>
+
+
+</body>
+</html>
