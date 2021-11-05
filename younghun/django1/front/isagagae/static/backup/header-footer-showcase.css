@@ -1,0 +1,51 @@
+/*--------------------------------header--------------------------------*/
+header
+{
+    background: #35424a;
+    color: #fff;
+    padding:20px 0px;
+    min-height: 70px;
+    border-bottom:3px solid #e8941d;
+    
+}
+header .container{
+    text-align: left;
+}
+#branding{
+    font-size:55px;
+}
+/*--------------------------------showcase------------------------------*/
+/*../img/img1.jpg*/
+#showcase
+{
+    padding: 10px;
+    min-height: 400px;
+    background:url("../img/img1.jpg") no-repeat;
+    background-size: cover;
+    background-position: top;
+    text-align: center;
+    color: #fff;
+    position: relative;
+}
+#showcase h1
+{
+    margin-top: 100px;
+    font-size: 55px;
+}
+#showcase p
+{
+    font-size: 20px;
+}
+/*----------------------------------footer------------------------------*/
+footer
+{
+    padding: 20px;
+    margin-top: 20px;
+    color:#fff;
+    text-align: center;
+    background-color: #e8491d;
+}
+footer p{
+    font-size: 20px;
+}
+

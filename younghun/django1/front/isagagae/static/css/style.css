@@ -1,0 +1,77 @@
+/*-----------------------Global Css-----------------------------*/
+
+@import url('https://webfontworld.github.io/GmarketSans/fonts.css');
+
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'jalnan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ body
+{
+    font-family: 'GmarketSansMedium', normal;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    background-color: #fff;  /*  #252529 */
+    margin: 0;
+    color: #333;
+    line-height: 1.6;
+    overflow-x: hidden;
+}
+.container
+{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+ul
+{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+a
+{
+    text-decoration: none;
+}
+.filter{
+    min-height: 425px;
+    background:rgba(100, 100, 100, .3);
+    position: absolute;
+    top: -1%;
+    left:0%;
+    width:100%;
+} 
+img{
+    width: 250px;
+    height: auto;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1rem;
+}
+h1{
+    font-size: 3rem;
+}
+.btn{
+    padding: 10px;
+    background-color: #ccc;
+    border: 0;
+    border-radius: 5px;
+}

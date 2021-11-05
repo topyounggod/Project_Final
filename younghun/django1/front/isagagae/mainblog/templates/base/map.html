@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>kakao 지도 다각형 그리기</title>
+</head>
+<body>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5f7e671baf8c76f905c92ae9dc772b1e"></script>
+    <div id="map" style="width:800px;height:600px;"></div>
+
+    <script>
+
+        // 지도를 담을 영역의 DOM 레퍼런스
+        var container = document.getElementById('map');
+        // 지도를 생성할 때 필요한 기본 옵션
+        var options = {
+	        center: new kakao.maps.LatLng(37.5642135, 127.0016985), // 지도의 중심좌표
+	        level: 9 // 지도의 레벨(확대, 축소 정도)
+        };
+        var map = new kakao.maps.Map(container, options); // 지도 생성 및 객체 리턴
+        var customOverlay = new kakao.maps.CustomOverlay({});
+
+        // 행정구역 구분
+        {% load static %}
+        $.getJSON("{% static 'json/seoul_gson.json' %}", function(geojson) {
+            var data = geojson.features;
+            var coordinates = [];
+            var name = '';
+
+            $.each(data, function(index, val) {
+                coordinates = val.geometry.coordinates;
+                name = val.properties.SIG_KOR_NM;
+
+                displayArea(coordinates, name);
+            })
+        })
+
+        var polygons = [];
+
+        // 행정구역 폴리곤
+        function displayArea(coordinates, name) {
+            var path = [];
+            var points = [];
+
+            $.each(coordinates[0], function(index, coordinate) {
+                var point = new Object();
+                point.x = coordinate[1];
+                point.y = coordinate[0];
+                points.push(point);
+                path.push(new kakao.maps.LatLng(coordinate[1], coordinate[0]));
+            })
+
+            // 다각형을 생성
+            var polygon = new kakao.maps.Polygon({
+                map : map,
+                path : path,
+                strokeWeight : 2,
+                strokeColor : '#004c80',
+                strokeOpacity : 0.8,
+                fillColor : '#fff',
+                fillOpacity : 0.6
+            });
+
+            polygons.push(polygon);
+
+            kakao.maps.event.addListener(polygon, 'mouseover', function(mouseEvent) {
+                polygon.setOptions({fillColor : '#09f'});
+
+                customOverlay.setContent('<div class="area">' + name + '</div>');
+
+                customOverlay.setPosition(mouseEvent.latLng);
+                customOverlay.setMap(map);
+            });
+
+            kakao.maps.event.addListener(polygon, 'mousemove', function(mouseEvent) {
+                customOverlay.setPosition(mouseEvent.latLng);
+            });
+
+            kakao.maps.event.addListener(polygon, 'mouseout', function() {
+                polygon.setOptions({fillColor : '#fff'});
+                customOverlay.setMap(null);
+            });
+
+            kakao.maps.event.addListener(polygon, 'click', function() {
+                map.setLevel(6, {anchor: centroid(points), animate: {
+                    duration: 500
+                }});
+
+                deletePolygon(polygons);
+            });
+
+        }
+
+        function centroid(points) {
+            var i, j, len, p1, p2, f, area, x, y;
+
+            area = x = y = 0;
+
+            for(i = 0, len = points.length, j = len-1; i < len; j = i++){
+                p1 = points[i];
+                p2 = points[j];
+
+                f = p1.y * p2.x - p2.y * p1.x;
+                x += (p1.x + p2.x) * f;
+                y += (p1.y + p2.y) * f;
+                area += f * 3;
+            }
+            return new kakao.maps.LatLng(x / area, y / area);
+        }
+
+        function deletePolygon(polygons) {
+            for(var i = 0; i < polygons.length; i++) {
+                polygons[i].setMap(null);
+            }
+            polygons = [];
+        }
+    </script>
+
+</body>
+</html>
+

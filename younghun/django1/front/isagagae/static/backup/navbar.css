@@ -1,0 +1,94 @@
+/*------------------------code for responsive nav bar starts here-------------------------------- */
+
+nav.my-nav{
+    position: sticky;
+    top: 0;
+}
+nav
+{
+    height: 46px;
+    width: 100%;
+    background-color: #333;
+    color:#eee;
+    padding: 4px;
+    z-index: 2;
+} 
+nav li{
+    display:inline;
+    float:left;
+}
+nav a{
+    display: inline-block;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 0;
+    color: #eee;
+}
+nav li:hover{
+    background-color: #444;
+}
+nav a#openup{
+    display: none;
+}
+@media screen and (max-width: 480px) {
+nav {
+    height: auto;
+    border-bottom: 0;
+}
+nav ul {
+    display: none;
+    height: auto;
+}
+nav li {
+    width: 100%;
+    float: left;
+    position: relative;
+}
+nav a {
+    text-align: left;
+    width: 100%;
+    text-indent: 25px;
+    background: #333;
+    border-bottom: 1px solid #555;
+}
+nav a:hover {
+    background: #444;
+}
+nav a#openup:after {
+    content: "|||";
+    transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(-90deg);
+    /* Safari and Chrome */
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    position: absolute;
+    right: 5px;
+    top: 20px;
+}
+nav a#openup {
+    display: block;
+    background-color: #333;
+    width: 100%;
+    position: relative;
+}
+}
+.my-nav:before, .my-nav:after {
+content: "";
+display: table;
+
+}
+
+.my-nav:after {
+clear: both;
+}
+
+.my-nav {
+zoom: 1;
+}
+
+/* For IE 6/7 (trigger hasLayout) */
+/*------------------------code for responsive nav bar ends here-------------------------------- */
