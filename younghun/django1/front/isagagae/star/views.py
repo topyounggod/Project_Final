@@ -3,17 +3,76 @@ from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from django.urls import reverse
 from .models import *
-from django.contrib.auth.mixins import LoginRequiredMixin
-import random
 import pymysql
 from pathlib import Path
 import pandas as pd
 from .findNearInfras import nearInfras
+
+from django.contrib.auth.models import User
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
+
 # Create your views here.
+
+
 def starindex(request) :
+    return render(request, 'star/star_index.html')
+    # user = User_table()
+    # user.user_id = User.objects.get(username=request.user.get_username())
+
+    # if request.method == 'POST':
+    #     hospital_rate = request.POST['rating1']
+    #     pharmacy_rate = request.POST['rating1']
+    #     playground_rate = request.POST['rating2']
+    #     park_rate = request.POST['rating2']
+    #     restaurant_rate = request.POST['rating3']
+    #     cafe_rate = request.POST['rating3']
+    #     salon_rate = request.POST['rating4']
+    #     deliver_rate = request.POST['rating4']
+    #     equip_rate = request.POST['rating5']
+    #     sell_rate = request.POST['rating5']
+    #     feed_rate = request.POST['rating5']
+    #     manage_rate = request.POST['rating6']
+    #
+    #     user = User_table()
+    #     # userID = UserID()
+    #     user.user_id = User.objects.get(username=request.user.get_username())
+    #     # userID.save()
+    #     # user.user_id = User.objects.get(username = request.user.get_username())
+    #     # user.user_id =
+    #     # user.user_pw = request.user.password
+    #     # user.email = 'melong@naver.com'
+    #     # user.type_id = '1'
+    #     user.hospital_rate = hospital_rate
+    #     user.pharmacy_rate = pharmacy_rate
+    #     user.playground_rate = playground_rate
+    #     user.park_rate = park_rate
+    #     user.restaurant_rate = restaurant_rate
+    #     user.cafe_rate = cafe_rate
+    #     user.salon_rate = salon_rate
+    #     user.deliver_rate = deliver_rate
+    #     user.equip_rate = equip_rate
+    #     user.sell_rate = sell_rate
+    #     user.feed_rate = feed_rate
+    #     user.manage_rate = manage_rate
+    #     user.save()
+
+        # weight_rate = request.POST['rating7']
+        # subtype = request.POST['인프라 종류']
+        #
+        # user_weight = UserWeight()
+        # user_weight.user_weight_id = '1'
+        # user_weight.user_id = '테스트유저2'
+        # user_weight.subtype = subtype
+        # user_weight.weight_rate = weight_rate
+        #
+        # user_weight.save()
+
+    # return render(request, 'star/star_index.html')
+
+
+def showpinmap(request):
     if request.method == 'POST':
         hospital_rate = request.POST['rating1']
         pharmacy_rate = request.POST['rating1']
@@ -28,8 +87,12 @@ def starindex(request) :
         feed_rate = request.POST['rating5']
         manage_rate = request.POST['rating6']
 
-        user = User()
-        user.user_id = request.user.id
+        user = User_table()
+        # userID = UserID()
+        user.user_id = User.objects.get(username=request.user.get_username())
+        # userID.save()
+        # user.user_id = User.objects.get(username = request.user.get_username())
+        # user.user_id =
         # user.user_pw = request.user.password
         # user.email = 'melong@naver.com'
         # user.type_id = '1'
@@ -46,22 +109,6 @@ def starindex(request) :
         user.feed_rate = feed_rate
         user.manage_rate = manage_rate
         user.save()
-
-        # weight_rate = request.POST['rating7']
-        # subtype = request.POST['인프라 종류']
-        #
-        # user_weight = UserWeight()
-        # user_weight.user_weight_id = '1'
-        # user_weight.user_id = '테스트유저2'
-        # user_weight.subtype = subtype
-        # user_weight.weight_rate = weight_rate
-        #
-        # user_weight.save()
-
-    return render(request, 'star/star_index.html')
-
-
-def showpinmap(request):
     db = pymysql.connect(
         user='root',
         password='1111',
@@ -83,9 +130,9 @@ def showpinmap(request):
           "r.food * u.feed_rate + r.manage * u.manage_rate as sum, " \
           "r.lat lat_, r.lng lng_, cluster " \
           "from cluster_result r, user u " \
-          "where user_id ="+ str(request.user.id) + " "\
+          "where user_id = '"+ str(User.objects.get(username=request.user.get_username()))+ "' "\
           "order by sum desc " \
-          "limit 3)" \
+          "limit 30)" \
           "a;"
 
     cursor.execute(sql)
@@ -96,6 +143,7 @@ def showpinmap(request):
     # csvfile = BASE_DIR /'static/json/random_pinpoint.csv'
     # # sql => query문에서 나온 그 좌표 세 개로
     # pointdata = pd.read_csv(csvfile)
+    print(result)
     latlng = []
     for lat, lng in zip(result['lat_'], result['lng_']):
         center = [lat, lng]

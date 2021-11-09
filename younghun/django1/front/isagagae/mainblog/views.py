@@ -12,13 +12,18 @@ from django.contrib.auth.views import LoginView
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth import login
+from django.contrib.auth.models import User
+
+
+
+
+
 
 
 class CustomLoginView(LoginView):
     template_name = 'base/login.html'
     fields = '__all__'
     redirect_authenticated_user = True
-
     def get_success_url(self):
         return reverse_lazy('index')
 
@@ -47,6 +52,7 @@ def service(request) :
 
 def result(request) :
    return render(request,'result.html')
+
 
 
 # def memotest(request) :

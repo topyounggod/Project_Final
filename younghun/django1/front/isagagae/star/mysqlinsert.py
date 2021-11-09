@@ -2,6 +2,8 @@
 
 import pymysql
 import pandas as pd
+from django.contrib.auth.models import User
+
 db = pymysql.connect(
     user='root',
     password='1111',
@@ -24,9 +26,9 @@ sql = "select lat_, lng_ " \
       "r.food * u.feed_rate + r.manage * u.manage_rate as sum, " \
       "r.lat lat_, r.lng lng_, cluster " \
       "from cluster_result r, user u " \
-      "where user_id = '1'" \
+      "where user_id =" + User.objects.get(username=request.user.get_username()) + " " \
       "order by sum desc " \
-      "limit 3)" \
+      "limit 30)" \
       "a;"
 
 cursor.execute(sql)
