@@ -18,6 +18,25 @@ where user_id = 'a'
 limit 5;
 
 
+select * 
+from(
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate as sum,
+r.lat lat_,
+r.lng lng_,
+cluster_id
+from cluster_result r, user u
+where user_id = '테스트유저2'
+order by sum desc
+limit 50)a
+group by cluster_id;
+
+
+
+
+
 select
 r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
 r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
