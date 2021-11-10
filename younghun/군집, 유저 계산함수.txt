@@ -1,0 +1,105 @@
+select
+r.hospital * u.hospital_rate,
+r.pharmacy * u.pharmacy_rate,
+r.playground * u.playground_rate,
+r.park * u.park_rate,
+r.restaurant * u.restaurant_rate,
+r.cafe * u.cafe_rate,
+r.salon * u.salon_rate,
+r.deliver * u.deliver_rate,
+r.equip * u.equip_rate,
+r.sell * u.sell_rate,
+r.rst * u.feed_rate,
+r.manage * u.manage_rate,
+r.lat,
+r.lng
+from cluster_result r, user u
+where user_id = 'a'
+limit 5;
+
+
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate,
+r.lat,
+r.lng
+from cluster_result r, user u
+where user_id = '테스트유저1'
+limit 3;
+
+--------------------------------------------------------------
+1. 한글깨짐해결
+2. 디비 컬럼 이름변경
+3. 장고에 디비연결해서 계산식 갖다써 어떻게? 밥먹고 해봐
+
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate,
+r.lat,
+r.lng
+from cluster_result r, user u, user_weight uw
+where user_id = '테스트유저2'
+limit 3;
+
+----------------------------원래 쿼리-----------------------
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate*5 as sum,
+r.lat,
+r.lng,
+cluster_id
+from cluster_result r, user u
+where user_id = '테스트유저2' and cluster_id = 6
+order by sum 
+limit 30;
+----------------------------------------------------------------
+
+군집별 max(sum)
+
+select distinct cli, lat_, lng_
+from (
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate*5 as sum,
+r.lat lat_,
+r.lng lng_,
+cluster_id as cli
+from cluster_result r, user u
+where user_id = '테스트유저2'
+order by sum desc
+limit 50)a;
+
+select * 
+from(
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate as sum,
+r.lat lat_,
+r.lng lng_,
+cluster_id
+from cluster_result r, user u
+where user_id = '테스트유저2'
+order by sum desc
+limit 50)a
+group by cluster_id;
+
+------ 최종 쿼리(위경도 추출)
+
+select *
+from(
+select
+r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + 
+r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + r.salon * u.salon_rate + r.deliver * u.deliver_rate + 
+r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate as sum,
+r.lat lat_,
+r.lng lng_,
+cluster_id
+from cluster_result r, user u
+where user_id = '테스트유저2'
+order by sum desc
+limit 4)a;

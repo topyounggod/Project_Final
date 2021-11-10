@@ -10,5 +10,5 @@ urlpatterns = [
     path('logout/', LogoutView.as_view(next_page='login'), name='logout'),
     path('register/', RegisterPage.as_view(), name='register'),
     path('service/',include('star.urls',namespace='starfin')),
-    path('/service/showpinmap/',include('star.urls',namespace='showpinmap')),
+    # path('/service/showpinmap/',include('star.urls',namespace='showpinmap')),
     ]
