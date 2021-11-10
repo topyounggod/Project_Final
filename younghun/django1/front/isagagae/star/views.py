@@ -7,6 +7,8 @@ import pymysql
 from pathlib import Path
 import pandas as pd
 from .findNearInfras import nearInfras
+import requests
+import json
 
 from django.contrib.auth.models import User
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -120,21 +122,21 @@ def showpinmap(request):
 
     cursor = db.cursor(pymysql.cursors.DictCursor)
 
-    sql = "select lat_, lng_ cluster_id" \
-          "from(" \
-          "select r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + " \
+    # sql = "select lat_, lng_, cluster " \
+    #       "from(" \
+    sql = \
+          "select max(r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + " \
           "r.play * u.playground_rate + r.park * u.park_rate + " \
           "r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + " \
           "r.beauty * u.salon_rate + r.deliver * u.deliver_rate + " \
           "r.equip * u.equip_rate + r.sell * u.sell_rate + " \
-          "r.food * u.feed_rate + r.manage * u.manage_rate as sum, " \
-          "r.lat lat_, r.lng lng_, cluster_id " \
+          "r.food * u.feed_rate + r.manage * u.manage_rate) as mymax, " \
+          "r.lat lat_, r.lng lng_, cluster " \
           "from cluster_result r, user u " \
           "where user_id = '"+ str(User.objects.get(username=request.user.get_username()))+ "' "\
-          "order by sum desc" \
-          ")a " \
-          "group by cluster_id " \
-          "limit 3;"
+          "group by cluster " \
+          "order by mymax desc " \
+          "limit 5;"
 
     cursor.execute(sql)
 
