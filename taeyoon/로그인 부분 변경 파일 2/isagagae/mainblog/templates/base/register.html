@@ -1,0 +1,30 @@
+{% extends 'base/main.html' %}
+{% block content %}
+{% load static %}
+
+
+    <div class="header-bar">
+        <p><a href = "{% url 'index' %}"><img src="{% static 'img/logo/logo_h.png'%}"></a></p>
+    </div>
+<div class="card-body">
+    <form method="POST">
+        {% csrf_token %}
+        <label>{{ form.username.label }}</label>
+        {{ form.username }}
+        <label>{{ form.password1.label }}</label>
+        {{ form.password1 }}
+        <label>{{ form.password2.label }}</label>
+        {{ form.password2 }}
+
+        <div class="ip"><input style = "margin-top:10px" class="button" type="submit" value="Register"></div>
+
+
+    </form>
+    <p>이미 아이디가 있으신가요??<a href="{% url 'login' %}">Login</a></p>
+</div>
+
+
+
+
+
+{% endblock content %}
