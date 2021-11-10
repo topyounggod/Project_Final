@@ -1,7 +1,10 @@
 {% extends 'base/main.html' %}
 {% block content %}
+{% load static %}
+
+
     <div class="header-bar">
-        <h1>Register</h1>
+        <p><a href = "{% url 'index' %}"><img src="{% static 'img/logo/logo_h.png'%}"></a></p>
     </div>
 <div class="card-body">
     <form method="POST">
@@ -13,13 +16,11 @@
         <label>{{ form.password2.label }}</label>
         {{ form.password2 }}
 
-
-
-        <input style = "margin-top:10px" class="button" type="submit" value="Register">
+        <div class="ip"><input style = "margin-top:10px" class="button" type="submit" value="Register"></div>
 
 
     </form>
-    <p>Already have an account?<a href="{% url 'login' %}">Login</a></p>
+    <p>이미 아이디가 있으신가요??<a href="{% url 'login' %}">Login</a></p>
 </div>
 
 

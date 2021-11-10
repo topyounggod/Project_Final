@@ -1,23 +1,18 @@
 {% extends 'base/main.html' %}
+{% load static %}
 {% block content %}
 <div class="header-bar">
-    <h1>Login</h1>
+    <p><a href = "{% url 'index' %}"><img src="{% static 'img/logo/logo_h.png'%}"></a></p>
 </div>
 
-    <div class="card-body">
-        <form method="POST">
-            {% csrf_token %}
-            {{ form.as_p }}
-            <input class="button" type="submit" value="Login">
+<div class="card-body">
+    <form method="POST">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <div class="ip"><input class="button" type="submit" value="Login"></div>
 
-
-        </form>
-        <p>Don't have an account?<a href="{% url 'register' %}">   Register</a></p>
-        <p>Back to main page<a href = "{% url 'index' %}">    Home</a></p>
-    </div>
-
-
-
-<
+    </form>
+        <p>아직 아이디가 없으신가요?<a href="{% url 'register' %}">Register</a></p>
+</div>
 
 {% endblock content %}

@@ -292,6 +292,7 @@ main > section {
     top: 0;
     width: 100%;
     z-index: 11;
+    text-shadow:1px 1px 1px #1C304A;
 }
 
 .slide-caption .caption-content {
@@ -305,6 +306,7 @@ main > section {
     font-weight: 400;
     margin-bottom: 25px;
     text-transform: uppercase;
+    text-shadow:2px 2px 2px #1C304A;
 }
 
 .caption-content > span {

@@ -6,7 +6,7 @@
 -->
 
 <html lang="en">
-<!--{% load static %}-->
+{% load static %}
 
     <head>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -44,6 +44,7 @@
         <header id="navigation" class="navbar-inverse navbar-fixed-top animated-header" >
             <div class="container">
                 <div class="navbar-header">
+
 					<!-- logo -->
 					<div class="navbar-brand">
 						<a href="#body"><img src="{% static 'img/logo/logo.png'%}"></a>
@@ -58,8 +59,8 @@
                         <li id="nav"><a href="#review">Review</a></li>
                         {% if request.user.is_authenticated %}
                         <li><a href="{% url 'starfin:star_index' %}">Service</a></li>
-                        <li>{{ request.user }}</li>
 					    <li><a href="{% url 'logout' %}">Logout</a></li>
+                        <li><a style="color:#1C304A;"><b>id:</b>{{ request.user }}</a></li>
                         {% else %}
                         <li><a href="{% url 'login' %}">Login</a></li>
                         {% endif %}
@@ -87,8 +88,8 @@
 						<div class="slide-caption">
                             <div class="caption-content">
                                 <h2 class="animated fadeInDown">어디가냥? 이사가개!</h2>
-                                <span class="animated fadeInDown">반려동물 양육 인프라 기반 이사 지역 추천 서비스</span>
-                                <a href="#" class="btn btn-blue btn-effect">Service</a>
+                                <span class="animated fadeInDown" style="text-shadow:1px 1px 1px #1C304A;">반려동물 양육 인프라 기반 이사 지역 추천 서비스</span>
+                                <a href="{% url 'starfin:star_index' %}" class="btn btn-blue btn-effect">Service</a>
                             </div>
                         </div>
 						
@@ -100,7 +101,7 @@
                             <div class="caption-content">
                                 <h2>이사가냥? 알려줄개!</h2>
                                 <span>내가 원하는 산업 시설이 많은 지역으로 맞춤 추천 서비스</span>
-                                <a href="#" class="btn btn-blue btn-effect">Join US</a>
+                                <a href="{% url 'register' %}" class="btn btn-blue btn-effect">Join US</a>
                             </div>
                         </div>
 						
@@ -112,7 +113,7 @@
                             <div class="caption-content">
                                 <h2>리얼 리뷰</h2>
                                 <span>어디가냥?이사가개!를 이용한 사용자들의 솔직한 사용후기</span>
-                                <a href="#" class="btn btn-blue btn-effect">Review</a>
+                                <a href="#Review" class="btn btn-blue btn-effect">Review</a>
                             </div>
                         </div>
 
@@ -124,7 +125,7 @@
                             <div class="caption-content">
                                 <h2>다시가개!</h2>
                                 <span>나에게 맞는 맞춤 지역 결과 보기</span>
-                                <a href="service.html" class="btn btn-blue btn-effect">Result</a>
+                                <a href="#" class="btn btn-blue btn-effect">Result</a>
                             </div>
                         </div>
 
@@ -258,8 +259,8 @@
 								<div class="testimonial-item text-center">
 									<img src="{%static 'img/review/m-3.png'%}" alt="Our Clients">
 									<div class="clearfix">
-										<span>김문혁</span>
-										<p>진주에서 살다가 이번에 취직을 해서 서울로 상경하게 되었는데, 서울에 대해 아무것도 몰라서 '어디가냥? 이사가개'를</p> <p>저희 반려견과 함께 살 수 있는 좋은 동네를 추천받았습니다. 고맙습니다 </p>
+										<span>이동헌</span>
+										<p>지방에서 살다가 이번에 취직을 해서 서울로 상경하게 되었는데, 서울에 대해 아무것도 몰라서 '어디가냥? 이사가개'를</p> <p>저희 반려견과 함께 살 수 있는 좋은 동네를 추천받았습니다. 고맙습니다 </p>
 									</div>
 								</div>
 							</div>
