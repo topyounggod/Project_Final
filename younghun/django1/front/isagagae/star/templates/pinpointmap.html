@@ -2,15 +2,17 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>kakao 지도 다각형 그리기</title>
+    <title>추천 지역</title>
+    <style>
+    </style>
 </head>
 <body>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5f7e671baf8c76f905c92ae9dc772b1e"></script>
-    <div id="map" style="width:800px;height:800px;"></div>
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5f7e671baf8c76f905c92ae9dc772b1e&libraries=services"></script>
+    <div id="latlngplace" style="position:relative;left:15%;"></div>
+    <div id="map" style="position:relative;width:70%;left:15%;height:800px;"></div>
 
     <script>
-
         // 지도를 담을 영역의 DOM 레퍼런스
         var container = document.getElementById('map');
         // 지도를 생성할 때 필요한 기본 옵션
@@ -25,15 +27,20 @@
 
 
         // 마커를 표시할 위치와 title 객체 배열입니다
-
         var positions = []
         {% for latlng in latlngs %}
             positions.push({
                 content: "{{ forloop.counter }} 순위 추천지역",
                 latlng: new kakao.maps.LatLng({{ latlng.lat }}, {{ latlng.lng }}),
-                nearinfra: {{ latlng.near|safe }}
+                nearinfra: {{ latlng.near|safe }},
+                region: "{{ latlng.address }}"
             });
         {% endfor %}
+
+        var comment = document.getElementById('latlngplace');
+        for (var i = 0; i < positions.length; i++) {
+                comment.innerHTML = comment.innerHTML + positions[i].content + " : " +  positions[i].region + "<br>"
+        }
 
         // 마커 이미지의 이미지 주소입니다
         var centerimageSrc = "https://t1.daumcdn.net/localimg/localimages/07/mapapidoc/markerStar.png";
@@ -93,6 +100,7 @@
             var circle = new kakao.maps.Circle({
                 center: marker.getPosition(), // 원의 중심좌표 입니다
                 radius: 2000, // 미터 단위의 원의 반지름입니다
+                strokeColor: '#1C304A',
                 strokeOpacity: 1, // 선의 불투명도 입니다 1에서 0 사이의 값이며 0에 가까울수록 투명합니다
                 strokeStyle: 'dashed', // 선의 스타일 입니다
             });
@@ -123,27 +131,7 @@
                 }
             }
         }
-
-        var markers = [];
-
-        function addMarker(positon) {
-            var marker = new kakao.maps.Marker({
-                position:position
-            });
-
-            marker.setMap(map);
-
-            markers.push(marker);
-        }
-
-        function setMarkers(map) {
-            for (var i = 0; i < markers.length; i++) {
-                markers[i].setMap(map);
-            }
-        }
-
     </script>
 
 </body>
 </html>
-

@@ -120,7 +120,7 @@ def showpinmap(request):
 
     cursor = db.cursor(pymysql.cursors.DictCursor)
 
-    sql = "select lat_, lng_ " \
+    sql = "select lat_, lng_ cluster_id" \
           "from(" \
           "select r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + " \
           "r.play * u.playground_rate + r.park * u.park_rate + " \
@@ -128,25 +128,26 @@ def showpinmap(request):
           "r.beauty * u.salon_rate + r.deliver * u.deliver_rate + " \
           "r.equip * u.equip_rate + r.sell * u.sell_rate + " \
           "r.food * u.feed_rate + r.manage * u.manage_rate as sum, " \
-          "r.lat lat_, r.lng lng_, cluster " \
+          "r.lat lat_, r.lng lng_, cluster_id " \
           "from cluster_result r, user u " \
           "where user_id = '"+ str(User.objects.get(username=request.user.get_username()))+ "' "\
-          "order by sum desc " \
-          "limit 30)" \
-          "a;"
+          "order by sum desc" \
+          ")a " \
+          "group by cluster_id " \
+          "limit 3;"
 
     cursor.execute(sql)
 
     result = cursor.fetchall()
     result = pd.DataFrame(result)
 
-    # csvfile = BASE_DIR /'static/json/random_pinpoint.csv'
-    # # sql => query문에서 나온 그 좌표 세 개로
-    # pointdata = pd.read_csv(csvfile)
-    print(result)
     latlng = []
     for lat, lng in zip(result['lat_'], result['lng_']):
         center = [lat, lng]
+        url = "https://dapi.kakao.com/v2/local/geo/coord2regioncode.json?x=" + str(lng) + "&y=" + str(lat)
+        headers = {"Authorization": "KakaoAK " + "889c9d9bd1489eb337cfeb167093b9df"}
+        api_test = requests.get(url, headers=headers)
+        url_text = json.loads(str(api_test.text))
         nearpoints = nearInfras(center)
         redpoints = []
         for infra in nearpoints:
@@ -164,7 +165,7 @@ def showpinmap(request):
                     "infralat": infra['geometry']['coordinates'][1],
                     "infralng": infra['geometry']['coordinates'][0]
                 })
-        latlng.append({"lat":lat, "lng":lng, "near":redpoints})
+        latlng.append({"lat":lat, "lng":lng, "near":redpoints, "address":url_text["documents"][0]["address_name"]})
     context = {
          'latlngs': latlng
     }
