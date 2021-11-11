@@ -2,7 +2,7 @@ from pymongo import MongoClient
 
 def nearInfras(latlng):
     client = MongoClient("mongodb://localhost:27017/")
-    db = client['fin']
+    db = client['practice00']
     infras = []
     lng = latlng[1]
     lat = latlng[0]

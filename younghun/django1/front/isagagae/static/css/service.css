@@ -1,0 +1,81 @@
+.parent{
+    margin: 10px auto;
+    width: 90%;
+    float: center;
+    padding: 10px ;
+
+}
+
+.HEALTH{
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    text-align:center;
+    font-family: 'GmarketSansMedium', normal;
+}
+.PLAY{
+    float: left;
+    width: 30%;
+    margin-left: 5%;
+    box-sizing: border-box;
+    text-align:center;
+    font-family: 'GmarketSansMedium', normal;
+}
+.FOOD{
+    float: right;
+    width: 30%;
+    box-sizing: border-box;
+    text-align:center;
+    font-family: 'GmarketSansMedium', normal;
+}
+.BEAUTY{
+    float: left;
+    width: 30%;
+    box-sizing: border-box;
+    text-align:center;
+    font-family: 'GmarketSansMedium', normal;
+}
+.LIFE{
+    float: left;
+    margin-left: 5%;
+    width: 30%;
+    box-sizing: border-box;
+    text-align:center;
+    font-family: 'GmarketSansMedium', normal;
+}
+.CARE{
+    float: right;
+    width: 30%;
+    box-sizing: border-box;
+    text-align:center;
+    font-family: 'GmarketSansMedium', normal;
+}
+.button{
+        border: 1px solid #fca3b9;
+        background-color: transparent ;
+        color: #fca3b9;
+        padding: 10px;
+        font-size: 14px;
+        border-radius: 5px;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        display: block;
+
+}
+
+.title_star{
+            margin-bottom: 10px;
+}
+
+.rating{
+        margin-bottom: 10px;
+}
+
+.bubox{
+      text-align:center;
+      display: flex;
+      justify-content: space-around;
+      margin: 30px 0px;
+
+}

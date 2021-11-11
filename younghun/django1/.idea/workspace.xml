@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1e710a17-ead6-40ca-9518-c1cb4a1d6840" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/front/isagagae/isagagae/my_settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/isagagae/my_settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/star/findNearInfras.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/star/findNearInfras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/star/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/star/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/star/mysqlinsert.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/star/mysqlinsert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/star/templates/star/pinpointmap.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/star/templates/star/pinpointmap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/star/templates/star/star_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/star/templates/star/star_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/star/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/star/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/static/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/static/star.css" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/static/star.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/front/isagagae/static/starrate.png" beforeDir="false" afterPath="$PROJECT_DIR$/front/isagagae/static/starrate.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20XIGCqyZxlpEtOm7Bn6DAvUTkB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/temp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pythonProject\Project_Final\younghun\django1\temp" />
+      <recent name="C:\pythonProject\Project_Final\younghun\django1\front\isagagae\star\templates\star" />
+      <recent name="C:\pythonProject\Project_Final\younghun\django1\front\isagagae\static\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pythonProject\Project_Final\younghun\django1\front\isagagae\static" />
+      <recent name="C:\pythonProject\Project_Final\younghun\django1\front\isagagae\static\script" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.findNearInfras (1)">
+    <configuration name="findNearInfras (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sb\.conda\envs\ai01\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/temp" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp/findNearInfras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findNearInfras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/front/isagagae/star" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/front/isagagae/star/findNearInfras.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.findNearInfras (1)" />
+        <item itemvalue="Python.findNearInfras" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e710a17-ead6-40ca-9518-c1cb4a1d6840" name="Default Changelist" comment="" />
+      <created>1636184408204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636184408204</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -75,3 +75,12 @@ h1{
     border: 0;
     border-radius: 5px;
 }
+
+#latlngplace {
+    font-family: 'jalnan', normal;
+    font-size: 30px;
+    color: #1C304A;
+    padding-top: 50px;
+    padding-bottom : 20px;
+
+}

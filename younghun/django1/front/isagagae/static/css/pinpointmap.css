@@ -1,0 +1,32 @@
+@import url('https://webfontworld.github.io/GmarketSans/fonts.css');
+
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'jalnan';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.2/JalnanOTF00.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+/*
+body {
+    background-color: #fff;
+    font-family: 'jalnan', medieum;
+    line-height: 24px;
+    font-size: 50px;
+    color: #818181;
+}
+*/
+
+#latlngplace {
+    font-family: 'jalnan', normal;
+    font-size: 50px;
+    color: #1C304A;
+    padding-top: 50px;
+    padding-bottom : 20px;
+}

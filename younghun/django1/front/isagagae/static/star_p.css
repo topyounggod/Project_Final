@@ -25,23 +25,22 @@
     cursor: pointer;
     vertical-align: top;
     display: none;
-    background: #000;
 }
 .rating .rate_radio + label {
     position: relative;
     display: inline-block;
     margin-left: -4px;
     z-index: 10;
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     background-image: url('starrate.png');
     background-repeat: no-repeat;
-    background-size: 40px 40px;
+    background-size: 60px 60px;
     cursor: pointer;
     background-color: #f0f0f0;
 }
 .rating .rate_radio:checked + label {
-    background-color: #fca3b9;
+    background-color: #ff8;
 }
 
 .warning_msg {

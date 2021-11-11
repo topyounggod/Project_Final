@@ -6,11 +6,11 @@ from django.contrib.auth.models import User
 
 db = pymysql.connect(
     user='root',
-    password='1111',
+    password='1234',
     host='127.0.0.1',
     db='isagagae',
     charset='utf8',
-    port=3307
+    port=3305
 )
 
 

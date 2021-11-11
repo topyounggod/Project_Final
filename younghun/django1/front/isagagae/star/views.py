@@ -9,70 +9,18 @@ import pandas as pd
 from .findNearInfras import nearInfras
 import requests
 import json
+from django.views.decorators.csrf import csrf_exempt
 
 from django.contrib.auth.models import User
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-
+# pymysql.install_as_MySQLdb()
 
 # Create your views here.
 
 
 def starindex(request) :
     return render(request, 'star/star_index.html')
-    # user = User_table()
-    # user.user_id = User.objects.get(username=request.user.get_username())
-
-    # if request.method == 'POST':
-    #     hospital_rate = request.POST['rating1']
-    #     pharmacy_rate = request.POST['rating1']
-    #     playground_rate = request.POST['rating2']
-    #     park_rate = request.POST['rating2']
-    #     restaurant_rate = request.POST['rating3']
-    #     cafe_rate = request.POST['rating3']
-    #     salon_rate = request.POST['rating4']
-    #     deliver_rate = request.POST['rating4']
-    #     equip_rate = request.POST['rating5']
-    #     sell_rate = request.POST['rating5']
-    #     feed_rate = request.POST['rating5']
-    #     manage_rate = request.POST['rating6']
-    #
-    #     user = User_table()
-    #     # userID = UserID()
-    #     user.user_id = User.objects.get(username=request.user.get_username())
-    #     # userID.save()
-    #     # user.user_id = User.objects.get(username = request.user.get_username())
-    #     # user.user_id =
-    #     # user.user_pw = request.user.password
-    #     # user.email = 'melong@naver.com'
-    #     # user.type_id = '1'
-    #     user.hospital_rate = hospital_rate
-    #     user.pharmacy_rate = pharmacy_rate
-    #     user.playground_rate = playground_rate
-    #     user.park_rate = park_rate
-    #     user.restaurant_rate = restaurant_rate
-    #     user.cafe_rate = cafe_rate
-    #     user.salon_rate = salon_rate
-    #     user.deliver_rate = deliver_rate
-    #     user.equip_rate = equip_rate
-    #     user.sell_rate = sell_rate
-    #     user.feed_rate = feed_rate
-    #     user.manage_rate = manage_rate
-    #     user.save()
-
-        # weight_rate = request.POST['rating7']
-        # subtype = request.POST['인프라 종류']
-        #
-        # user_weight = UserWeight()
-        # user_weight.user_weight_id = '1'
-        # user_weight.user_id = '테스트유저2'
-        # user_weight.subtype = subtype
-        # user_weight.weight_rate = weight_rate
-        #
-        # user_weight.save()
-
-    # return render(request, 'star/star_index.html')
-
 
 def showpinmap(request):
     if request.method == 'POST':
@@ -89,15 +37,15 @@ def showpinmap(request):
         feed_rate = request.POST['rating5']
         manage_rate = request.POST['rating6']
 
-        user = User_table()
-        # userID = UserID()
+        print(hospital_rate)
+        print(pharmacy_rate)
+        print(playground_rate)
+        print(park_rate)
+        print(restaurant_rate)
+        print(cafe_rate)
+
+        user = UserTable()
         user.user_id = User.objects.get(username=request.user.get_username())
-        # userID.save()
-        # user.user_id = User.objects.get(username = request.user.get_username())
-        # user.user_id =
-        # user.user_pw = request.user.password
-        # user.email = 'melong@naver.com'
-        # user.type_id = '1'
         user.hospital_rate = hospital_rate
         user.pharmacy_rate = pharmacy_rate
         user.playground_rate = playground_rate
@@ -111,32 +59,35 @@ def showpinmap(request):
         user.feed_rate = feed_rate
         user.manage_rate = manage_rate
         user.save()
+
     db = pymysql.connect(
         user='root',
-        password='1111',
+        password='1234',
         host='127.0.0.1',
         db='isagagae',
         charset='utf8',
-        port=3307
+        port=3305
     )
 
     cursor = db.cursor(pymysql.cursors.DictCursor)
 
-    # sql = "select lat_, lng_, cluster " \
-    #       "from(" \
+#     sql = "select max(r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + r.playground * u.playground_rate + r.park * u.park_rate + r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + \
+# r.salon * u.salon_rate + r.deliver * u.deliver_rate + r.equip * u.equip_rate + r.sell * u.sell_rate + r.feed * u.feed_rate + r.manage * u.manage_rate) as mymax, r.lat, r.lng, r.cluster_id\
+# from cluster_result as r, user_table as u where user_id = '"+ str(User.objects.get(username=request.user.get_username()))+ "' group by r.cluster_id order by mymax desc limit 5;"
+
     sql = \
           "select max(r.hospital * u.hospital_rate + r.pharmacy * u.pharmacy_rate + " \
-          "r.play * u.playground_rate + r.park * u.park_rate + " \
+          "r.playground * u.playground_rate + r.park * u.park_rate + " \
           "r.restaurant * u.restaurant_rate + r.cafe * u.cafe_rate + " \
-          "r.beauty * u.salon_rate + r.deliver * u.deliver_rate + " \
+          "r.salon * u.salon_rate + r.deliver * u.deliver_rate + " \
           "r.equip * u.equip_rate + r.sell * u.sell_rate + " \
-          "r.food * u.feed_rate + r.manage * u.manage_rate) as mymax, " \
-          "r.lat lat_, r.lng lng_, cluster " \
-          "from cluster_result r, user u " \
+          "r.feed * u.feed_rate + r.manage * u.manage_rate) as mymax, " \
+          "r.lat lat_, r.lng lng_, cluster_id " \
+          "from cluster_result r, user_table u " \
           "where user_id = '"+ str(User.objects.get(username=request.user.get_username()))+ "' "\
-          "group by cluster " \
+          "group by cluster_id " \
           "order by mymax desc " \
-          "limit 5;"
+          "limit 3;"
 
     cursor.execute(sql)
 
@@ -148,8 +99,10 @@ def showpinmap(request):
         center = [lat, lng]
         url = "https://dapi.kakao.com/v2/local/geo/coord2regioncode.json?x=" + str(lng) + "&y=" + str(lat)
         headers = {"Authorization": "KakaoAK " + "889c9d9bd1489eb337cfeb167093b9df"}
+        # headers = {"Authorization": "KakaoAK " + "889c9d9bd1489eb337cfeb167093b9df"}
         api_test = requests.get(url, headers=headers)
         url_text = json.loads(str(api_test.text))
+        print(url_text)
         nearpoints = nearInfras(center)
         redpoints = []
         for infra in nearpoints:
@@ -172,41 +125,4 @@ def showpinmap(request):
          'latlngs': latlng
     }
     return render(request, 'star/pinpointmap.html', context=context)
-
-# def to_db(request):
-#     user_rate = pymysql.connect(
-#         user='root',
-#         passwd='1234',
-#         host='127.0.0.1',
-#         db='isagagae',
-#         charset='utf8',
-#         port = 3305
-#     )
-#     # print(request.GET)
-#     cursor = user_rate.cursor(pymysql.cursors.DictCursor)
-#     # insert_data=[{'rate': request.GET['checked']}]
-#     # insert_data=[{'rate': request.GET['checked']}]
-#     insert_data=[{'user_id': '테스트유저1','user_pw': '유저패스워드',
-#                   'email': '유저이메일', 'type_id': '3', 'rate': request.GET['checked']}]
-#     insert_sql = "INSERT INTO `user` VALUES (%(user_id)s,%(user_pw)s,%(email)s,%(type_id)s, %(rate)s);"
-#     print(insert_sql)
-#     cursor.executemany(insert_sql, insert_data)
-#     user_rate.commit()
-
-
-# def savestar(request) :
-#     print(request.GET['checked'])
-#     rate = request.GET['checked']
-#     # user_rate_id = random.randint(1, 100000)
-#     # user_id = random.randint(1, 100000)
-#     # type_id = random.randint(1, 100000)
-#     # rate = request.GET['checked']
-#     # data = {'user_rate_id' : user_rate_id,
-#     #         'user_id' : user_id,
-#     #         'type_id' : type_id,
-#     #         'rate' : rate}
-#
-#     to_db(request)
-#     print('완료한 별점', rate)
-#     return redirect(reverse(index))
 

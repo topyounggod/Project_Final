@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-class User_table(models.Model):
+class UserTable(models.Model):
     user_id = models.CharField(primary_key=True, max_length=255)
     # user_pw = models.CharField(max_length=255, blank=True, null=True)
     # email = models.CharField(max_length=255, blank=True, null=True)
@@ -21,7 +21,7 @@ class User_table(models.Model):
 
     class Meta:
         managed = False
-        db_table = 'user'
+        db_table = 'user_table'
 
 class InfraType(models.Model):
     id = models.IntegerField(primary_key = True)

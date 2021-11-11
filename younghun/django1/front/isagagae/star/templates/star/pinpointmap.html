@@ -1,16 +1,26 @@
 <!DOCTYPE html>
 <html>
+
+{% load static %}
+
 <head>
+
     <meta charset="UTF-8">
     <title>추천 지역</title>
-    <style>
-    </style>
+
+<!--    <link rel="stylesheet" href="{% static 'css/pinpointmap.css' %}" type="text/css" />-->
+    <link rel="stylesheet" href="{% static 'css/style.css' %}" type="text/css" />
+    <link rel="stylesheet" href="{% static 'css/font-awesome.min.css' %}" type="text/css" />
+
 </head>
-<body>
+
+<body style="background:#ffffcd;">
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=5f7e671baf8c76f905c92ae9dc772b1e&libraries=services"></script>
+
     <div id="latlngplace" style="position:relative;left:15%;"></div>
-    <div id="map" style="position:relative;width:70%;left:15%;height:800px;"></div>
+    <div id="map" style="position:relative;width:70%;left:15%;height:650px;"></div>
 
     <script>
         // 지도를 담을 영역의 DOM 레퍼런스
@@ -131,7 +141,19 @@
                 }
             }
         }
+        console.log(positions[0].nearinfra);
     </script>
+
+<footer id="footer">
+			<div class="container">
+				<div class="row text-center">
+					<div class="footer-content">
+						<p>Copyright &copy; 2021 MultiCampus Uhdirogayahazo</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+
 
 </body>
 </html>
